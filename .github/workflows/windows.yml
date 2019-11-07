@@ -2,12 +2,7 @@
 # use ci-master https://github.com/metanorma/metanorma-build-scripts
 name: windows
 
-on:
-  push:
-    branch: master
-  pull_request:
-    branches:
-    - '**'
+on: [push, pull_request]
 
 jobs:
   test-windows:
