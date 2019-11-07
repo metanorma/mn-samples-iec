@@ -2,12 +2,7 @@
 # use ci-master https://github.com/metanorma/metanorma-build-scripts
 name: ubuntu
 
-on:
-  push:
-    branch: master
-  pull_request:
-    branches:
-    - '**'
+on: [push, pull_request]
 
 jobs:
   test-linux:
@@ -41,3 +36,7 @@ jobs:
         run: |
           export COMMIT_AUTHOR_EMAIL="$(yq r metanorma.yml metanorma.deploy.email)"
           make clean all publish
+      - name: Deploy
+        if: github.ref == 'refs/heads/master'
+        run: |
+          bash -c "curl -L https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/deploy-to-gh-pages.sh | bash"
