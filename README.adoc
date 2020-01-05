@@ -7,7 +7,7 @@ image:https://github.com/metanorma/mn-samples-iec/workflows/docker/badge.svg["Bu
 
 This document is available in its rendered forms here:
 
-* https://metanorma.github.io/mn-iec-docs/[Metanorma IEC samples (HTML)]
+* https://metanorma.github.io/mn-samples-iec/[Metanorma IEC samples (HTML)]
 
 
 == Fetching the document
