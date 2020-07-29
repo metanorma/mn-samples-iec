@@ -53,6 +53,7 @@ This edition includes the following significant technical changes with respect t
 
 The text of this International Standard is based on the following documents:
 
+[%unnumbered]
 |===
 |FDIS	|Report on voting
 
