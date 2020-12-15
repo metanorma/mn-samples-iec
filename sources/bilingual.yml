@@ -1,0 +1,36 @@
+directives:
+  - documents-inline
+bibdata:
+  title:
+    - language: en
+      content: Cereals and pulses – Specifications and test methods – Rice
+    - language: fr
+      content: Céréales et légumineuses – Spécification et méthodes d'essai – Riz
+  type: collection
+  docid:
+    type: iec
+    id: IEC 17301
+  edition: 1
+  date:
+    - type: published
+      value: 2016
+  copyright:
+    owner:
+      name: International Standards Organization
+      abbreviation: ISO
+    from: 2016
+manifest:
+  level: standard
+  title: International Standard/Norme international
+  docref:
+    - fileref: iec-rice-fr.xml
+      identifier: ISO 17301-1:2016(F)
+    - fileref: iec-rice-en.xml
+      identifier: ISO 17301-1:2016(E)
+prefatory-content:
+|
+
+
+final-content:
+|
+
