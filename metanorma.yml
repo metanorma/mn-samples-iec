@@ -1,8 +1,10 @@
 ---
 metanorma:
-  deploy:
-    email: "travis-ci@metanorma.org"
-relaton:
+  source:
+    files:
+      - sources/iec-rice-en.adoc
+      - sources/iec-rice-fr.adoc
+
   collection:
     name: Metanorma-IEC sample documents
     organization: International Electrotechnical Commission
