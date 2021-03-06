@@ -1,8 +1,6 @@
 = Metanorma IEC samples
 
-image:https://github.com/metanorma/mn-samples-iec/workflows/ubuntu/badge.svg["Build Status", link="https://github.com/metanorma/mn-samples-iec/actions?workflow=ubuntu"]
-image:https://github.com/metanorma/mn-samples-iec/workflows/macos/badge.svg["Build Status", link="https://github.com/metanorma/mn-samples-iec/actions?workflow=macos"]
-image:https://github.com/metanorma/mn-samples-iec/workflows/windows/badge.svg["Build Status", link="https://github.com/metanorma/mn-samples-iec/actions?workflow=windows"]
+image:https://github.com/metanorma/mn-samples-iec/workflows/generate/badge.svg["Build Status", link="https://github.com/metanorma/mn-samples-iec/actions/workflow/generate.yml"]
 image:https://github.com/metanorma/mn-samples-iec/workflows/docker/badge.svg["Build Status", link="https://github.com/metanorma/mn-samples-iec/actions?workflow=docker"]
 
 This document is available in its rendered forms here:
