@@ -33,7 +33,7 @@
 :section-refsig: Clause
 :table-caption: Table
 :example-caption: Figure
-:docfile: iec-rice.adoc
+:docfile: iec-rice-en.adoc
 :imagesdir: images
 :mn-document-class: iec
 :mn-output-extensions: xml,doc,html,pdf,rxl
