@@ -1,4 +1,4 @@
-<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>Metanorma-IEC sample documents</title><contributor><role type='author'/><organization><name>International Electrotechnical Commission</name></organization></contributor><relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>Metanorma-IEC sample documents</title><contributor><role type='author'/><organization><name>International Electrotechnical Commission</name></organization></contributor><relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -12,12 +12,12 @@
   <uri type="doc">documents/iec-rice-en.doc</uri>
   <uri type="html">documents/iec-rice-en.html</uri>
   <uri type="rxl">documents/iec-rice-en.rxl</uri>
-  <docidentifier type="ISO">IEC CD 17301-1 ED2</docidentifier>
+  <docidentifier type="ISO" primary="true">IEC CD 17301-1:2016 ED2</docidentifier>
   <docidentifier type="iso-reference">IEC CD 17301-1:2016 ED2(en)</docidentifier>
   <docidentifier type="iso-revdate">IEC CD 17301-1:2016-05 ED2(en)</docidentifier>
   <docidentifier type="URN">urn:iec:std:iec:17301:-1:2016:stage-30.92:ed-2:en</docidentifier>
   <docidentifier type="iso-undated">IEC CD 17301-1 ED2</docidentifier>
-  <docidentifier type="iso-with-lang">IEC CD 17301-1 ED2(en)</docidentifier>
+  <docidentifier type="iso-with-lang">IEC CD 17301-1:2016 ED2(en)</docidentifier>
   <docidentifier type="iso-tc">17301</docidentifier>
   <docnumber>17301</docnumber>
   <contributor>
@@ -33,8 +33,9 @@
     </role>
     <organization>
       <name>International Electrotechnical Commission</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -43,8 +44,9 @@
     </role>
     <organization>
       <name>International Electrotechnical Commission</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -53,8 +55,9 @@
     </role>
     <organization>
       <name>International Electrotechnical Commission</name>
-      <subdivision>Rice Group</subdivision>
-      <identifier type="">WG 3</identifier>
+      <subdivision>
+Rice Group
+WG 3</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -79,8 +82,9 @@
     </role>
     <organization>
       <name>International Electrotechnical Commission</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -89,8 +93,9 @@
     </role>
     <organization>
       <name>International Electrotechnical Commission</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -99,8 +104,9 @@
     </role>
     <organization>
       <name>International Electrotechnical Commission</name>
-      <subdivision>Rice Group</subdivision>
-      <identifier type="">WG 3</identifier>
+      <subdivision>
+Rice Group
+WG 3</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -122,7 +128,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -135,7 +141,7 @@
     <stagename>Draft circulated as CD International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -149,12 +155,12 @@
   <uri type="doc">documents/iec-rice-fr.doc</uri>
   <uri type="html">documents/iec-rice-fr.html</uri>
   <uri type="rxl">documents/iec-rice-fr.rxl</uri>
-  <docidentifier type="ISO">IEC CD 17301-1 ED2</docidentifier>
+  <docidentifier type="ISO" primary="true">IEC CD 17301-1:2016 ED2</docidentifier>
   <docidentifier type="iso-reference">IEC CD 17301-1:2016 ED2(fr)</docidentifier>
   <docidentifier type="iso-revdate">IEC CD 17301-1:2016-05 ED2(fr)</docidentifier>
   <docidentifier type="URN">urn:iec:std:iec:17301:-1:2016:stage-30.92:ed-2:fr</docidentifier>
   <docidentifier type="iso-undated">IEC CD 17301-1 ED2</docidentifier>
-  <docidentifier type="iso-with-lang">IEC CD 17301-1 ED2(fr)</docidentifier>
+  <docidentifier type="iso-with-lang">IEC CD 17301-1:2016 ED2(fr)</docidentifier>
   <docidentifier type="iso-tc">17301</docidentifier>
   <docnumber>17301</docnumber>
   <contributor>
@@ -170,8 +176,9 @@
     </role>
     <organization>
       <name>International Electrotechnical Commission</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -180,8 +187,9 @@
     </role>
     <organization>
       <name>International Electrotechnical Commission</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -190,8 +198,9 @@
     </role>
     <organization>
       <name>International Electrotechnical Commission</name>
-      <subdivision>Rice Group</subdivision>
-      <identifier type="">WG 3</identifier>
+      <subdivision>
+Rice Group
+WG 3</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -216,8 +225,9 @@
     </role>
     <organization>
       <name>International Electrotechnical Commission</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -226,8 +236,9 @@
     </role>
     <organization>
       <name>International Electrotechnical Commission</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -236,8 +247,9 @@
     </role>
     <organization>
       <name>International Electrotechnical Commission</name>
-      <subdivision>Rice Group</subdivision>
-      <identifier type="">WG 3</identifier>
+      <subdivision>
+Rice Group
+WG 3</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -259,7 +271,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
