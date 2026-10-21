@@ -251,8 +251,8 @@ sourcecode .nt {
 <p class="zzSTDTitle1"> </p>
 </p></p>
 
-<clause id="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7" type="scope" inline-header="false" obligation="normative" semx-id="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7" displayorder="14"><fmt-annotation-start id="_c9c9b5cf-c3d2-e48f-6598-f4ace3842a0d" source="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7" target="_15c75b7d-2d3b-d68d-b188-d55f60975bed" end="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7" author="" date="2026-10-15"/>
-<title id="_eaf330a4-729e-247f-d7ef-3ea195e86166" semx-id="_f70b6ff6-6131-0e24-81e1-850dbe94b63d">Scope<fmt-annotation-end id="_eccb5bb3-66a1-e5c9-6780-661bf26208d2" source="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7" target="_15c75b7d-2d3b-d68d-b188-d55f60975bed" start="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7" author="" date="2026-10-15"/></title><fmt-title depth="1" id="_d4a7bd04-1e99-517e-ccfe-a19de86df8a3"><span class="fmt-caption-label"><semx element="autonum" source="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7">1</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_eaf330a4-729e-247f-d7ef-3ea195e86166">Scope</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7">1</semx></fmt-xref-label>
+<clause id="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7" type="scope" inline-header="false" obligation="normative" semx-id="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7" displayorder="14"><fmt-annotation-start id="_c9c9b5cf-c3d2-e48f-6598-f4ace3842a0d" source="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7" target="_15c75b7d-2d3b-d68d-b188-d55f60975bed" end="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7" author="" date="2026-10-21"/>
+<title id="_eaf330a4-729e-247f-d7ef-3ea195e86166" semx-id="_f70b6ff6-6131-0e24-81e1-850dbe94b63d">Scope<fmt-annotation-end id="_eccb5bb3-66a1-e5c9-6780-661bf26208d2" source="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7" target="_15c75b7d-2d3b-d68d-b188-d55f60975bed" start="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7" author="" date="2026-10-21"/></title><fmt-title depth="1" id="_d4a7bd04-1e99-517e-ccfe-a19de86df8a3"><span class="fmt-caption-label"><semx element="autonum" source="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7">1</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_eaf330a4-729e-247f-d7ef-3ea195e86166">Scope</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7">1</semx></fmt-xref-label>
 <p id="_61ce453e-bf75-91d7-ddb0-cb8bc0dd3d50" semx-id="_61ce453e-bf75-91d7-ddb0-cb8bc0dd3d50">This document specifies minimum requirements and test methods for rice (<em>Oryza sativa L.</em>).</p>
 
 <p id="_8c6e23a2-4690-3b5a-7b0d-09eae18c174f" semx-id="_8c6e23a2-4690-3b5a-7b0d-09eae18c174f">It is applicable to husked rice, husked parboiled rice, milled rice and milled parboiled rice, suitable for human consumption, directly or after reconditioning.</p>
@@ -858,13 +858,13 @@ sourcecode .nt {
 
 
 
-<references id="_d81d9e9a-2289-7644-36f5-9d1aac721132" normative="true" obligation="informative" semx-id="_d81d9e9a-2289-7644-36f5-9d1aac721132" displayorder="15">
-<title id="_ac74ba90-2deb-a911-4194-91885b8ba62a" semx-id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><fmt-title depth="1" id="_852b2414-3fed-fae4-d83a-e9fdd0571c3f"><span class="fmt-caption-label"><semx element="autonum" source="_d81d9e9a-2289-7644-36f5-9d1aac721132">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_ac74ba90-2deb-a911-4194-91885b8ba62a">Normative references</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="_d81d9e9a-2289-7644-36f5-9d1aac721132">2</semx></fmt-xref-label><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025" semx-id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
+<references id="_f2b55127-4bbd-e5dc-c15c-8294c61957e5" normative="true" obligation="informative" semx-id="_f2b55127-4bbd-e5dc-c15c-8294c61957e5" displayorder="15">
+<title id="_ac74ba90-2deb-a911-4194-91885b8ba62a" semx-id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><fmt-title depth="1" id="_852b2414-3fed-fae4-d83a-e9fdd0571c3f"><span class="fmt-caption-label"><semx element="autonum" source="_f2b55127-4bbd-e5dc-c15c-8294c61957e5">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_ac74ba90-2deb-a911-4194-91885b8ba62a">Normative references</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="_f2b55127-4bbd-e5dc-c15c-8294c61957e5">2</semx></fmt-xref-label><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025" semx-id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
 
 
-<bibitem id="ISO712" type="standard" schema-version="v1.5.6" anchor="ISO712" semx-id="_8f2f4de5-aeaf-360d-bacf-a01c90e74d51"><biblio-tag>ISO 712<fn id="_16d44c0f-76e3-a5cd-c492-ac9a409cad04" reference="1" original-reference="_18442305-104a-4b47-b7d9-390cb0d755ad" target="_e4150b96-a79f-92e9-46f4-49266338e75b"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_16d44c0f-76e3-a5cd-c492-ac9a409cad04">1</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+<bibitem id="ISO712" type="standard" schema-version="v1.5.6" anchor="ISO712" semx-id="_f4a05f0d-60c0-ded7-6d7d-8289dae623ef"><biblio-tag>ISO 712<fn id="_16d44c0f-76e3-a5cd-c492-ac9a409cad04" reference="1" original-reference="_a877dbf0-9884-41f9-8d29-dc729cf36d23" target="_e4150b96-a79f-92e9-46f4-49266338e75b"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_16d44c0f-76e3-a5cd-c492-ac9a409cad04">1</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
 , </biblio-tag><formattedref><em><span class="stddocTitle">Cereals and cereal products — Determination of moisture content — Reference method</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+  <fetched>2026-10-21</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -1073,8 +1073,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO6646" type="standard" schema-version="v1.5.6" anchor="ISO6646" semx-id="_499427cc-0648-3e2d-ec19-5166dd84dac9"><biblio-tag>ISO 6646, </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Determination of the potential milling yield from paddy and from husked rice</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+<bibitem id="ISO6646" type="standard" schema-version="v1.5.6" anchor="ISO6646" semx-id="_712bbc9d-2181-a6d0-f73a-acf337353451"><biblio-tag>ISO 6646, </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Determination of the potential milling yield from paddy and from husked rice</span></em></formattedref>
+  <fetched>2026-10-21</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -1271,8 +1271,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO8351-1" type="standard" schema-version="v1.5.6" anchor="ISO8351-1" semx-id="_01c5cc88-e4c3-bbd4-0eed-974c023a0fbd"><biblio-tag>ISO 8351-1:1994, </biblio-tag><formattedref><em><span class="stddocTitle">Packaging — Method of specification for sacks — Part 1: Paper sacks</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+<bibitem id="ISO8351-1" type="standard" schema-version="v1.5.6" anchor="ISO8351-1" semx-id="_3c32cd3f-53cc-7107-0281-0fff4ab728f0"><biblio-tag>ISO 8351-1:1994, </biblio-tag><formattedref><em><span class="stddocTitle">Packaging — Method of specification for sacks — Part 1: Paper sacks</span></em></formattedref>
+  <fetched>2026-10-21</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1365,8 +1365,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO8351-2" type="standard" schema-version="v1.5.6" anchor="ISO8351-2" semx-id="_fe0d15f8-ba81-ff93-d02c-bfa51cb7b6fe"><biblio-tag>ISO 8351-2, </biblio-tag><formattedref><em><span class="stddocTitle">Packaging — Method of specification for sacks — Part 2: Sacks made from thermoplastic flexible film</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+<bibitem id="ISO8351-2" type="standard" schema-version="v1.5.6" anchor="ISO8351-2" semx-id="_d0de5809-dd4f-0ddb-5a49-fc8e1772a9ee"><biblio-tag>ISO 8351-2, </biblio-tag><formattedref><em><span class="stddocTitle">Packaging — Method of specification for sacks — Part 2: Sacks made from thermoplastic flexible film</span></em></formattedref>
+  <fetched>2026-10-21</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1537,15 +1537,15 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem anchor="ISO16634" id="ISO16634" type="standard" semx-id="_ed935d6d-d881-a4ab-6825-10690c866955"><biblio-tag>ISO 16634:—<fn id="_ae65276a-63d3-c994-3782-04f5c955203b" reference="2" original-reference="_996512c1-b858-42ec-aea3-cf033d372259" target="_6ae505df-8389-2952-cc78-537f20522069"><p>Under preparation. (Stage at the time of publication ISO/DIS 16634)</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_ae65276a-63d3-c994-3782-04f5c955203b">2</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+<bibitem anchor="ISO16634" id="ISO16634" type="standard" semx-id="_ed935d6d-d881-a4ab-6825-10690c866955"><biblio-tag>ISO 16634:—<fn id="_ae65276a-63d3-c994-3782-04f5c955203b" reference="2" original-reference="_a6b9bedb-5713-475e-9ac3-b1e68d95873a" target="_6ae505df-8389-2952-cc78-537f20522069"><p>Under preparation. (Stage at the time of publication ISO/DIS 16634)</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_ae65276a-63d3-c994-3782-04f5c955203b">2</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
 , </biblio-tag><formattedref><em><span class="stddocTitle">Cereals, pulses, milled cereal products, oilseeds and animal feeding stuffs — Determination of the total nitrogen content by combustion according to the Dumas principle and calculation of the crude protein content</span></em></formattedref>
 <title format="text/plain">Cereals, pulses, milled cereal products, oilseeds and animal feeding stuffs — Determination of the total nitrogen content by combustion according to the Dumas principle and calculation of the crude protein content</title>
 <docidentifier type="ISO">ISO 16634:—</docidentifier><docidentifier scope="biblio-tag">ISO 16634:—</docidentifier><docnumber>16634</docnumber><date type="published"><on>–</on></date><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><note format="text/plain" type="Unpublished-Status">Under preparation. (Stage at the time of publication ISO/DIS 16634)</note><language>en</language><script>Latn</script>
 </bibitem>
-<bibitem id="ISO20483" type="standard" schema-version="v1.5.6" anchor="ISO20483" semx-id="_51c25914-59f3-9903-a924-84bfcd789a2d"><biblio-tag>ISO 20483:2013, </biblio-tag><formattedref><em><span class="stddocTitle">Cereals and pulses — Determination of the nitrogen content and calculation of the crude protein content — Kjeldahl method</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+<bibitem id="ISO20483" type="standard" schema-version="v1.5.6" anchor="ISO20483" semx-id="_feb3006d-9317-4907-a4fa-ad88438a7d80"><biblio-tag>ISO 20483:2013, </biblio-tag><formattedref><em><span class="stddocTitle">Cereals and pulses — Determination of the nitrogen content and calculation of the crude protein content — Kjeldahl method</span></em></formattedref>
+  <fetched>2026-10-21</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and pulses</title>
 
@@ -1643,8 +1643,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO24333" type="standard" schema-version="v1.5.6" anchor="ISO24333" semx-id="_04858c66-d628-f575-a251-809035bfc070"><biblio-tag>ISO 24333:2009, </biblio-tag><formattedref><em><span class="stddocTitle">Cereals and cereal products — Sampling</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+<bibitem id="ISO24333" type="standard" schema-version="v1.5.6" anchor="ISO24333" semx-id="_441c8e73-359f-5692-ef6c-36a0df4c366c"><biblio-tag>ISO 24333:2009, </biblio-tag><formattedref><em><span class="stddocTitle">Cereals and cereal products — Sampling</span></em></formattedref>
+  <fetched>2026-10-21</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -2504,13 +2504,13 @@ sourcecode .nt {
 <example id="samplecode" anchor="samplecode" semx-id="_b759a45e-3fb5-5bd1-942f-263318e2daaa" autonum="">
 <name id="_e8c5f712-3126-6196-a938-ed68c8f9bfef" semx-id="_903236dc-2da7-261c-6a8b-263a7d8ef069">Sample Code</name><fmt-name id="_f9cfa8a6-ea73-ffae-ec76-810983840b68"><span class="fmt-caption-label"><span class="fmt-element-name">EXAMPLE</span></span><span class="fmt-caption-delim"> — </span><semx element="name" source="_e8c5f712-3126-6196-a938-ed68c8f9bfef">Sample Code</semx></fmt-name><fmt-xref-label><span class="fmt-element-name">Example</span></fmt-xref-label><fmt-xref-label container="_e64908af-9064-88f1-d100-3c6643b0019d"><span class="fmt-xref-container"><span class="fmt-xref-container"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="_58422096-261d-3241-f0c0-fbe1986dabff">E</semx></span><span class="fmt-comma">,</span> <span class="fmt-element-name">Appendix</span> <semx element="autonum" source="_e64908af-9064-88f1-d100-3c6643b0019d">1</semx></span><span class="fmt-comma">,</span> <span class="fmt-element-name">Example</span></fmt-xref-label>
 <sourcecode id="_42d8df53-f6ee-7d7c-a87d-0528efc13c89" lang="ruby" semx-id="_42d8df53-f6ee-7d7c-a87d-0528efc13c89"><body>puts "Hello, world."
-%w{a b c}.each do |x| <callout target="_33b2173d-9f47-4f9d-9aa2-66d3f09b96a4">1</callout>
+%w{a b c}.each do |x| <callout target="_e38311d6-2fa6-42a2-bbbb-9e5492f7fbfc">1</callout>
   puts x
-end</body><callout-annotation anchor="_33b2173d-9f47-4f9d-9aa2-66d3f09b96a4" semx-id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" original-id="_33b2173d-9f47-4f9d-9aa2-66d3f09b96a4" id="_48b96e7a-63d3-7f7f-a540-a55c7d4928d4"><p semx-id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc" id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc">This is an annotation</p>
+end</body><callout-annotation anchor="_e38311d6-2fa6-42a2-bbbb-9e5492f7fbfc" semx-id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" original-id="_e38311d6-2fa6-42a2-bbbb-9e5492f7fbfc" id="_48b96e7a-63d3-7f7f-a540-a55c7d4928d4"><p semx-id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc" id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc">This is an annotation</p>
 </callout-annotation><fmt-sourcecode lang="ruby" semx-id="_42d8df53-f6ee-7d7c-a87d-0528efc13c89" id="_fed99c13-c3b7-b54b-3aef-f2c2cbd4ed3a"><span class="nb">puts</span> <span class="s2">"Hello, world."</span>
-<span class="sx">%w{a b c}</span><span class="p">.</span><span class="nf">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">x</span><span class="o">|</span> <span class="c"><callout target="_33b2173d-9f47-4f9d-9aa2-66d3f09b96a4">1</callout></span> 
+<span class="sx">%w{a b c}</span><span class="p">.</span><span class="nf">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">x</span><span class="o">|</span> <span class="c"><callout target="_e38311d6-2fa6-42a2-bbbb-9e5492f7fbfc">1</callout></span> 
   <span class="nb">puts</span> <span class="n">x</span>
-<span class="k">end</span><dl><name id="_5f2d52d3-60d1-269b-4ecf-87cd2b527458">Key</name><fmt-name id="_3914bdac-a10e-effb-2647-6b69173321bf"><semx element="name" source="_5f2d52d3-60d1-269b-4ecf-87cd2b527458">Key</semx></fmt-name><dt id="_33b2173d-9f47-4f9d-9aa2-66d3f09b96a4"><span class="c">1</span></dt>
+<span class="k">end</span><dl><name id="_5f2d52d3-60d1-269b-4ecf-87cd2b527458">Key</name><fmt-name id="_3914bdac-a10e-effb-2647-6b69173321bf"><semx element="name" source="_5f2d52d3-60d1-269b-4ecf-87cd2b527458">Key</semx></fmt-name><dt id="_e38311d6-2fa6-42a2-bbbb-9e5492f7fbfc"><span class="c">1</span></dt>
 <dd><semx element="callout-annotation" source="_48b96e7a-63d3-7f7f-a540-a55c7d4928d4"><p semx-id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc" original-id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc">This is an annotation</p>
 </semx></dd>
 </dl></fmt-sourcecode></sourcecode>
@@ -2518,9 +2518,9 @@ end</body><callout-annotation anchor="_33b2173d-9f47-4f9d-9aa2-66d3f09b96a4" sem
 
 </example>
 </appendix>
-</annex><bibliography><references id="_76361a99-aabe-ebce-b17a-b9df70e18236" normative="false" obligation="informative" semx-id="_76361a99-aabe-ebce-b17a-b9df70e18236" displayorder="28">
-<title id="_3f8543b0-1736-de40-1220-feae7dba2725" semx-id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><fmt-title depth="1" id="_f9e09b00-7822-4e74-fb10-7a8633c8f0bc"><semx element="title" source="_3f8543b0-1736-de40-1220-feae7dba2725">Bibliography</semx></fmt-title><bibitem id="ISO3696" type="standard" schema-version="v1.5.6" anchor="ISO3696" semx-id="_73e72e85-643b-4a2e-21e2-7d448d984a42"><biblio-tag>[1]<tab/>ISO 3696, </biblio-tag><formattedref><em><span class="stddocTitle">Water for analytical laboratory use — Specification and test methods</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+</annex><bibliography><references id="_8d4d7d7b-1c22-cced-c42a-b80cdd037123" normative="false" obligation="informative" semx-id="_8d4d7d7b-1c22-cced-c42a-b80cdd037123" displayorder="28">
+<title id="_3f8543b0-1736-de40-1220-feae7dba2725" semx-id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><fmt-title depth="1" id="_f9e09b00-7822-4e74-fb10-7a8633c8f0bc"><semx element="title" source="_3f8543b0-1736-de40-1220-feae7dba2725">Bibliography</semx></fmt-title><bibitem id="ISO3696" type="standard" schema-version="v1.5.6" anchor="ISO3696" semx-id="_099c9032-bd81-82f5-45d7-bec0f177d14c"><biblio-tag>[1]<tab/>ISO 3696, </biblio-tag><formattedref><em><span class="stddocTitle">Water for analytical laboratory use — Specification and test methods</span></em></formattedref>
+  <fetched>2026-10-21</fetched>
   
 <title language="en" script="Latn" type="title-intro">Water for analytical laboratory use</title>
 
@@ -2678,8 +2678,8 @@ end</body><callout-annotation anchor="_33b2173d-9f47-4f9d-9aa2-66d3f09b96a4" sem
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO5725-1" type="standard" schema-version="v1.5.6" anchor="ISO5725-1" semx-id="_705b2534-51be-e867-ad80-14ddb67a2a53"><biblio-tag>[2]<tab/>ISO 5725-1, </biblio-tag><formattedref><em><span class="stddocTitle">Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+</bibitem><bibitem id="ISO5725-1" type="standard" schema-version="v1.5.6" anchor="ISO5725-1" semx-id="_494187df-8193-0521-6ce3-eda794940c33"><biblio-tag>[2]<tab/>ISO 5725-1, </biblio-tag><formattedref><em><span class="stddocTitle">Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions</span></em></formattedref>
+  <fetched>2026-10-21</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2877,9 +2877,9 @@ end</body><callout-annotation anchor="_33b2173d-9f47-4f9d-9aa2-66d3f09b96a4" sem
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO5725-2" type="standard" schema-version="v1.5.6" anchor="ISO5725-2" semx-id="_8a4e6ee9-5467-3838-f853-5a5a2055d7f1"><biblio-tag>[3]<tab/>ISO 5725-2<fn id="_1add4179-a738-e5cf-8812-f8e5892c2df7" reference="7" original-reference="_e6071837-82f3-43ec-993a-e9409cb77dda" target="_745eb231-d5a8-aa30-bfb0-bd14ce95de46"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_1add4179-a738-e5cf-8812-f8e5892c2df7">7</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+</bibitem><bibitem id="ISO5725-2" type="standard" schema-version="v1.5.6" anchor="ISO5725-2" semx-id="_473f1b3f-4d25-9c46-e2bd-388bb38664df"><biblio-tag>[3]<tab/>ISO 5725-2<fn id="_1add4179-a738-e5cf-8812-f8e5892c2df7" reference="7" original-reference="_1bece0a4-5799-405b-acb0-594fe617d9d1" target="_745eb231-d5a8-aa30-bfb0-bd14ce95de46"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_1add4179-a738-e5cf-8812-f8e5892c2df7">7</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
 , </biblio-tag><formattedref><em><span class="stddocTitle">Accuracy (trueness and precision) of measurement methods and results — Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+  <fetched>2026-10-21</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -3091,8 +3091,8 @@ end</body><callout-annotation anchor="_33b2173d-9f47-4f9d-9aa2-66d3f09b96a4" sem
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO6322-1" type="standard" schema-version="v1.5.6" anchor="ISO6322-1" semx-id="_b7d50546-19f8-f3ff-3ab8-8720ee6bd6dc"><biblio-tag>[4]<tab/>ISO 6322-1, </biblio-tag><formattedref><em><span class="stddocTitle">Storage of cereals and pulses — Part 1: General recommendations for the keeping of cereals</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+</bibitem><bibitem id="ISO6322-1" type="standard" schema-version="v1.5.6" anchor="ISO6322-1" semx-id="_d818352e-f872-8674-8521-5839b07fd664"><biblio-tag>[4]<tab/>ISO 6322-1, </biblio-tag><formattedref><em><span class="stddocTitle">Storage of cereals and pulses — Part 1: General recommendations for the keeping of cereals</span></em></formattedref>
+  <fetched>2026-10-21</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3298,8 +3298,8 @@ end</body><callout-annotation anchor="_33b2173d-9f47-4f9d-9aa2-66d3f09b96a4" sem
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO6322-2" type="standard" schema-version="v1.5.6" anchor="ISO6322-2" semx-id="_03465aa7-f1f9-e0d3-0a67-75a12a4ee39d"><biblio-tag>[5]<tab/>ISO 6322-2, </biblio-tag><formattedref><em><span class="stddocTitle">Storage of cereals and pulses — Part 2: Practical recommendations</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+</bibitem><bibitem id="ISO6322-2" type="standard" schema-version="v1.5.6" anchor="ISO6322-2" semx-id="_fff1f15c-9e73-2cac-b962-fe38d1c4b667"><biblio-tag>[5]<tab/>ISO 6322-2, </biblio-tag><formattedref><em><span class="stddocTitle">Storage of cereals and pulses — Part 2: Practical recommendations</span></em></formattedref>
+  <fetched>2026-10-21</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3476,8 +3476,8 @@ end</body><callout-annotation anchor="_33b2173d-9f47-4f9d-9aa2-66d3f09b96a4" sem
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO6322-3" type="standard" schema-version="v1.5.6" anchor="ISO6322-3" semx-id="_ed74688e-6020-f4c9-18c4-b466131a4c8d"><biblio-tag>[6]<tab/>ISO 6322-3, </biblio-tag><formattedref><em><span class="stddocTitle">Storage of cereals and pulses — Part 3: Control of attack by pests</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+</bibitem><bibitem id="ISO6322-3" type="standard" schema-version="v1.5.6" anchor="ISO6322-3" semx-id="_9182cf7b-b159-efd7-303f-565056f3d530"><biblio-tag>[6]<tab/>ISO 6322-3, </biblio-tag><formattedref><em><span class="stddocTitle">Storage of cereals and pulses — Part 3: Control of attack by pests</span></em></formattedref>
+  <fetched>2026-10-21</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3655,8 +3655,8 @@ end</body><callout-annotation anchor="_33b2173d-9f47-4f9d-9aa2-66d3f09b96a4" sem
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO7301" type="standard" schema-version="v1.5.6" anchor="ISO7301" semx-id="_bd1c2216-4e6b-3abc-6f3d-9a95ef933ac9"><biblio-tag>[7]<tab/>ISO 7301:2011, </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Specification</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+</bibitem><bibitem id="ISO7301" type="standard" schema-version="v1.5.6" anchor="ISO7301" semx-id="_9f4b21ab-8513-3a85-3192-625dffd5ad6d"><biblio-tag>[7]<tab/>ISO 7301:2011, </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Specification</span></em></formattedref>
+  <fetched>2026-10-21</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3754,8 +3754,8 @@ end</body><callout-annotation anchor="_33b2173d-9f47-4f9d-9aa2-66d3f09b96a4" sem
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.5.6" anchor="ISO14864" semx-id="_e00dd5b8-0148-c622-4540-31ae75d1de86"><biblio-tag>[8]<tab/>ISO 14864:1998, </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Evaluation of gelatinization time of kernels during cooking</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+</bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.5.6" anchor="ISO14864" semx-id="_e5318cac-176e-0af7-92d5-6bafde2d571a"><biblio-tag>[8]<tab/>ISO 14864:1998, </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Evaluation of gelatinization time of kernels during cooking</span></em></formattedref>
+  <fetched>2026-10-21</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3890,9 +3890,9 @@ end</body><callout-annotation anchor="_33b2173d-9f47-4f9d-9aa2-66d3f09b96a4" sem
 
 
 </references></bibliography>
-<annotation-container><annotation date="2026-10-15" reviewer="Metanorma" id="_ed8aa896-2339-3ca6-91be-d234ab2b3b91" from="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7" to="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7">
+<annotation-container><annotation date="2026-10-21" reviewer="Metanorma" id="_ed8aa896-2339-3ca6-91be-d234ab2b3b91" from="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7" to="_baa7c358-acfe-a9dc-2dc9-4a0036490cf7">
 <p><strong>Metadata warnings:</strong></p> <p>Secretariat is missing.</p>
-</annotation><fmt-annotation-body date="2026-10-15" reviewer="Metanorma" from="_c9c9b5cf-c3d2-e48f-6598-f4ace3842a0d" to="_eccb5bb3-66a1-e5c9-6780-661bf26208d2" id="_15c75b7d-2d3b-d68d-b188-d55f60975bed"><semx element="annotation" source="_ed8aa896-2339-3ca6-91be-d234ab2b3b91">
+</annotation><fmt-annotation-body date="2026-10-21" reviewer="Metanorma" from="_c9c9b5cf-c3d2-e48f-6598-f4ace3842a0d" to="_eccb5bb3-66a1-e5c9-6780-661bf26208d2" id="_15c75b7d-2d3b-d68d-b188-d55f60975bed"><semx element="annotation" source="_ed8aa896-2339-3ca6-91be-d234ab2b3b91">
 <p><strong>Metadata warnings:</strong></p> <p>Secretariat is missing.</p>
 </semx></fmt-annotation-body>
 <annotation id="_f0c1e9e7-773c-31b5-b00f-fc87d7c71cfa" reviewer="ISO" from="foreword" to="foreword" type="review" date="2017-01-01T00:00:00Z" semx-id="_f0c1e9e7-773c-31b5-b00f-fc87d7c71cfa"><p semx-id="_498033c0-75d9-e0e0-16bd-a200f2b30008" original-id="_498033c0-75d9-e0e0-16bd-a200f2b30008">A Foreword shall appear in each document. The generic text is shown here. It does not contain requirements, recommendations or permissions.</p>
