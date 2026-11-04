@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="2.9.0" schema-version="v2.2.0" flavor="iec">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="2.9.1" schema-version="v2.3.0" flavor="iec">
 <bibdata type="standard">
 <title language="en" type="main">Cereals and pulses — Specifications and test methods — Rice</title>
 
@@ -20,7 +20,7 @@
 <title language="fr" type="title-part">Riz</title>
 
 <title language="fr" type="title-part-prefix">Partie 1</title>
-<docidentifier type="ISO" primary="true">IEC CD 17301-1:2016 ED2</docidentifier><docidentifier type="iso-reference">IEC CD 17301-1:2016 ED2(fr)</docidentifier><docidentifier type="iso-revdate">IEC CD 17301-1:2016-05 ED2(fr)</docidentifier><docidentifier type="URN">urn:iec:std:iec:17301-1:2016:stage-30.92:ed-2:fr</docidentifier><docidentifier type="iso-undated">IEC CD 17301-1 ED2</docidentifier><docidentifier type="iso-with-lang">IEC CD 17301-1:2016 ED2(fr)</docidentifier><docidentifier type="iso-tc">17301</docidentifier><docnumber>17301</docnumber><date type="updated"><on>2016-05-01</on></date><contributor><role type="author"/><organization>
+<docidentifier type="ISO" primary="true">IEC CD 17301-1:2016 ED2</docidentifier><docidentifier type="iso-reference">IEC CD 17301-1:2016 ED2(fr)</docidentifier><docidentifier type="iso-revdate">IEC CD 17301-1:2016-05 ED2</docidentifier><docidentifier type="URN">urn:iec:std:iec:17301-1:2016:stage-30.92:ed-2:fr</docidentifier><docidentifier type="iso-undated">IEC CD 17301-1 ED2</docidentifier><docidentifier type="iso-with-lang">IEC CD 17301-1:2016 ED2(fr)</docidentifier><docidentifier type="iso-tc">17301</docidentifier><docnumber>17301</docnumber><date type="updated"><on>2016-05-01</on></date><contributor><role type="author"/><organization>
 <name>International Electrotechnical Commission</name>
 <abbreviation>IEC</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Electrotechnical Commission</name>
@@ -42,9 +42,9 @@
 <name>Cereals and pulses</name>
 <identifier>SC 4</identifier></subdivision><subdivision type="Workgroup" subtype="WG">
 <name>Rice Group</name>
-<identifier>WG 3</identifier></subdivision><abbreviation>IEC</abbreviation></organization></contributor><edition>2</edition><version>2016-05-01</version><language>fr</language><script>Latn</script><status><stage abbreviation="CD">30</stage><substage>92</substage></status><copyright><from>2016</from><owner><organization>
+<identifier>WG 3</identifier></subdivision><abbreviation>IEC</abbreviation></organization></contributor><edition>2</edition><version>2016-05-01</version><language>fr</language><script>Latn</script><status><stage>30</stage><substage>92</substage></status><copyright><from>2016</from><owner><organization>
 <name>International Electrotechnical Commission</name>
-<abbreviation>IEC</abbreviation></organization></owner></copyright><ext><doctype>international-standard</doctype><flavor>iec</flavor><structuredidentifier><project-number part="1">17301</project-number></structuredidentifier><stagename abbreviation="CD IS">Draft circulated as CD International Standard</stagename></ext></bibdata>
+<abbreviation>IEC</abbreviation></organization></owner></copyright><ext><doctype>international-standard</doctype><flavor>iec</flavor><structuredidentifier><project-number part="1">17301</project-number></structuredidentifier><stagename abbreviation="CD IS">Committee Draft International Standard</stagename></ext></bibdata>
 <termdocsource bibitemid="ISO712"/><termdocsource bibitemid="ISO24333"/><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
 <presentation-metadata><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata></metanorma-extension><boilerplate><copyright-statement>
 
@@ -1235,12 +1235,12 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
 <td id="_32274024-0559-f15a-862f-74db416f7f74" valign="top" align="center">6,06</td>
 </tr></tbody>
 </table>
-</annex><bibliography><references id="_35cf6756-bc87-6d0c-c78a-f83cf8a7b921" normative="true" obligation="informative">
+</annex><bibliography><references id="_1e0d3a01-5855-a5df-c56e-090ef67ca18a" normative="true" obligation="informative">
 <title id="_4f45c8bd-1ba1-78c9-9db1-428e22601996">Références normatives</title><p id="_21da3ff3-c14e-d036-ec1a-22dd5da6ee5e">Les documents suivants cités dans le texte constituent, pour tout ou partie de leur contenu, des exigences du présent document. Pour les références datées, seule l’édition citée s’applique. Pour les références non datées, la dernière édition du document de référence s’applique (y compris les éventuels amendements).</p>
 
 
-<bibitem id="_fbcd9aee-5156-6c1c-73c4-3badb8532949" type="standard" schema-version="v1.5.6" anchor="ISO712">
-  <fetched>2026-10-27</fetched>
+<bibitem id="_9eb2acc8-4972-99ca-bf5d-193a1cf80d3c" type="standard" schema-version="v1.5.6" anchor="ISO712">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -1269,7 +1269,6 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:44807:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/04/48/44807.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 712</docidentifier>
-  <docidentifier type="iso-undated">ISO 712</docidentifier>
   <docidentifier type="iso-reference">ISO 712(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:712:stage-95.99</docidentifier>
   <docnumber>712</docnumber>
@@ -1449,8 +1448,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_6f5dfaf8-188d-1ef5-b56a-ba10699b031a" type="standard" schema-version="v1.5.6" anchor="ISO6646">
-  <fetched>2026-10-27</fetched>
+<bibitem id="_b954ce24-145a-4118-6172-dd2d99dad6c9" type="standard" schema-version="v1.5.6" anchor="ISO6646">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -1473,7 +1472,6 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51072:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/10/51072.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6646</docidentifier>
-  <docidentifier type="iso-undated">ISO 6646</docidentifier>
   <docidentifier type="iso-reference">ISO 6646(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:6646:stage-90.93</docidentifier>
   <docnumber>6646</docnumber>
@@ -1647,8 +1645,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_bed4ad6d-043c-6382-bc98-25bdc95276ae" type="standard" schema-version="v1.5.6" anchor="ISO8351-1">
-  <fetched>2026-10-27</fetched>
+<bibitem id="_d068f147-6258-927b-c37a-d8f7f4606968" type="standard" schema-version="v1.5.6" anchor="ISO8351-1">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1741,8 +1739,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_91580728-2891-1285-9fb9-f3a3378a4548" type="standard" schema-version="v1.5.6" anchor="ISO8351-2">
-  <fetched>2026-10-27</fetched>
+<bibitem id="_3b860db9-ae77-63e7-812c-0034622e148a" type="standard" schema-version="v1.5.6" anchor="ISO8351-2">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1771,7 +1769,6 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:1818:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/00/18/1818.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 8351-2</docidentifier>
-  <docidentifier type="iso-undated">ISO 8351-2</docidentifier>
   <docidentifier type="iso-reference">ISO 8351-2(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:8351:-2:stage-90.93</docidentifier>
   <docnumber>8351</docnumber>
@@ -1919,8 +1916,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><note format="text/plain" type="Unpublished-Status">En cours d’élaboration. (Stade au moment de la publication ISO/DIS 16634).</note><language>fr</language><script>Latn</script>
 </bibitem>
-<bibitem id="_05628c9c-9813-be7c-2c66-5324049c5fb8" type="standard" schema-version="v1.5.6" anchor="ISO20483">
-  <fetched>2026-10-27</fetched>
+<bibitem id="_8f6aa0c7-1efd-1e25-0ce1-efecb1fa990a" type="standard" schema-version="v1.5.6" anchor="ISO20483">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and pulses</title>
 
@@ -2018,8 +2015,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_62b26cc3-266d-d4eb-8c80-75efc90b6bb6" type="standard" schema-version="v1.5.6" anchor="ISO24333">
-  <fetched>2026-10-27</fetched>
+<bibitem id="_0c21c02f-22f4-3302-05bd-8516ce088425" type="standard" schema-version="v1.5.6" anchor="ISO24333">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -2128,9 +2125,9 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
     <city>Geneva</city>
   </place>
 </bibitem>
-</references><references id="_bc0649e6-8c0c-0376-78dd-7878b2f13aec" normative="false" obligation="informative">
-<title id="_086fd3ae-8b31-2f2e-6ab5-296a5446feac">Bibliographie</title><bibitem id="_339c568d-be6a-f554-d8a0-0f40a9db3450" type="standard" schema-version="v1.5.6" anchor="ISO3696">
-  <fetched>2026-10-27</fetched>
+</references><references id="_f06c8d19-2754-d0ea-35d9-0f38517c740e" normative="false" obligation="informative">
+<title id="_086fd3ae-8b31-2f2e-6ab5-296a5446feac">Bibliographie</title><bibitem id="_5082874b-62c4-ddae-67aa-e900a754af6b" type="standard" schema-version="v1.5.6" anchor="ISO3696">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Water for analytical laboratory use</title>
 
@@ -2153,7 +2150,6 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:9169:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/00/91/9169.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 3696</docidentifier>
-  <docidentifier type="iso-undated">ISO 3696</docidentifier>
   <docidentifier type="iso-reference">ISO 3696(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:3696:stage-90.93</docidentifier>
   <docnumber>3696</docnumber>
@@ -2288,8 +2284,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_a05541f2-79fc-613e-be41-b0f3f26d3a9c" type="standard" schema-version="v1.5.6" anchor="ISO5725-1">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_08113102-9104-4024-c91b-b6f3857235ae" type="standard" schema-version="v1.5.6" anchor="ISO5725-1">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2312,7 +2308,6 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:11833:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/01/18/11833.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 5725-1</docidentifier>
-  <docidentifier type="iso-undated">ISO 5725-1</docidentifier>
   <docidentifier type="iso-reference">ISO 5725-1(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:5725:-1:stage-95.99</docidentifier>
   <docnumber>5725</docnumber>
@@ -2487,8 +2482,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_a9aacdcc-14c4-deed-9f0d-68ee306cf095" type="standard" schema-version="v1.5.6" anchor="ISO5725-2">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_36fef3f7-8ff4-54cf-ca2c-89ccdd931547" type="standard" schema-version="v1.5.6" anchor="ISO5725-2">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2511,7 +2506,6 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:11834:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/01/18/11834.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 5725-2</docidentifier>
-  <docidentifier type="iso-undated">ISO 5725-2</docidentifier>
   <docidentifier type="iso-reference">ISO 5725-2(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:5725:-2:stage-95.99</docidentifier>
   <docnumber>5725</docnumber>
@@ -2700,8 +2694,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_6968a43e-405a-17c9-f9f2-3b9bc06f1728" type="standard" schema-version="v1.5.6" anchor="ISO6322-1">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_e67ff670-e007-15ab-7540-5b4e1f2b8a61" type="standard" schema-version="v1.5.6" anchor="ISO6322-1">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -2724,7 +2718,6 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21396:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/13/21396.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6322-1</docidentifier>
-  <docidentifier type="iso-undated">ISO 6322-1</docidentifier>
   <docidentifier type="iso-reference">ISO 6322-1(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:6322:-1:stage-90.92</docidentifier>
   <docnumber>6322</docnumber>
@@ -2907,8 +2900,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_2b5308ae-7ca1-a521-0597-d81e291ca96b" type="standard" schema-version="v1.5.6" anchor="ISO6322-2">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_37fd0ff0-452d-ac32-39c7-4742a27fe0fd" type="standard" schema-version="v1.5.6" anchor="ISO6322-2">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -2931,7 +2924,6 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21395:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/13/21395.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6322-2</docidentifier>
-  <docidentifier type="iso-undated">ISO 6322-2</docidentifier>
   <docidentifier type="iso-reference">ISO 6322-2(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:6322:-2:stage-90.93</docidentifier>
   <docnumber>6322</docnumber>
@@ -3085,8 +3077,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_0432ec24-ecd7-a29e-0ffa-9246665e3930" type="standard" schema-version="v1.5.6" anchor="ISO6322-3">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_99415c07-95da-ba3c-04ac-497a064baae1" type="standard" schema-version="v1.5.6" anchor="ISO6322-3">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3109,7 +3101,6 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:12614:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/01/26/12614.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6322-3</docidentifier>
-  <docidentifier type="iso-undated">ISO 6322-3</docidentifier>
   <docidentifier type="iso-reference">ISO 6322-3(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:6322:-3:stage-90.93</docidentifier>
   <docnumber>6322</docnumber>
@@ -3264,8 +3255,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_f31953c0-c44c-4981-9745-b644d4c03184" type="standard" schema-version="v1.5.6" anchor="ISO7301">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_6b69bfba-0bd6-5ac3-87f8-1a078466764c" type="standard" schema-version="v1.5.6" anchor="ISO7301">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3363,8 +3354,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_bda8a343-2e55-f7b9-cdc9-2f986f34c632" type="standard" schema-version="v1.5.6" anchor="ISO14864">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_5f08f8b9-a60e-a568-88f4-d6ea1750223a" type="standard" schema-version="v1.5.6" anchor="ISO14864">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 

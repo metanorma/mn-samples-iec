@@ -15,11 +15,11 @@
   <uri type="html">./documents/iec-rice-en.html</uri>
   <uri type="rxl">./documents/iec-rice-en.rxl</uri>
   <docidentifier type="ISO" primary="true">IEC/CD 17301-1:2016</docidentifier>
-  <docidentifier type="iso-reference">IEC/CD 17301-1:2016(E)</docidentifier>
-  <docidentifier type="iso-revdate">IEC CD 17301-1:2016-05 ED2(en)</docidentifier>
+  <docidentifier type="iso-reference">IEC/CD 17301-1:2016(en)</docidentifier>
+  <docidentifier type="iso-revdate">IEC/CD 17301-1:2016-05</docidentifier>
   <docidentifier type="URN">urn:iec:std:iec:17301-1:2016:stage-30.92:ed-2:en</docidentifier>
   <docidentifier type="iso-undated">IEC/CD 17301-1</docidentifier>
-  <docidentifier type="iso-with-lang">IEC/CD 17301-1:2016(E)</docidentifier>
+  <docidentifier type="iso-with-lang">IEC/CD 17301-1:2016(en)</docidentifier>
   <docidentifier type="iso-tc">17301</docidentifier>
   <docnumber>17301</docnumber>
   <date type="updated">
@@ -97,7 +97,7 @@
   <language>en</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="CD">30</stage>
+    <stage>30</stage>
     <substage>92</substage>
   </status>
   <copyright>
@@ -115,7 +115,7 @@
     <structuredidentifier>
       <project-number part="1">17301</project-number>
     </structuredidentifier>
-    <stagename abbreviation="CD IS">Draft circulated as CD International Standard</stagename>
+    <stagename abbreviation="CD IS">Committee Draft International Standard</stagename>
   </ext>
 </bibdata></relation>
 <relation type='partOf'><bibdata type="standard" schema-version="v1.5.6">
@@ -135,11 +135,11 @@
   <uri type="html">./documents/iec-rice-fr.html</uri>
   <uri type="rxl">./documents/iec-rice-fr.rxl</uri>
   <docidentifier type="ISO" primary="true">IEC/CD 17301-1:2016</docidentifier>
-  <docidentifier type="iso-reference">IEC/CD 17301-1:2016(F)</docidentifier>
-  <docidentifier type="iso-revdate">IEC CD 17301-1:2016-05 ED2(fr)</docidentifier>
+  <docidentifier type="iso-reference">IEC/CD 17301-1:2016(fr)</docidentifier>
+  <docidentifier type="iso-revdate">IEC/CD 17301-1:2016-05</docidentifier>
   <docidentifier type="URN">urn:iec:std:iec:17301-1:2016:stage-30.92:ed-2:fr</docidentifier>
   <docidentifier type="iso-undated">IEC/CD 17301-1</docidentifier>
-  <docidentifier type="iso-with-lang">IEC/CD 17301-1:2016(F)</docidentifier>
+  <docidentifier type="iso-with-lang">IEC/CD 17301-1:2016(fr)</docidentifier>
   <docidentifier type="iso-tc">17301</docidentifier>
   <docnumber>17301</docnumber>
   <date type="updated">
@@ -217,7 +217,7 @@
   <language>fr</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="CD">30</stage>
+    <stage>30</stage>
     <substage>92</substage>
   </status>
   <copyright>
@@ -235,7 +235,7 @@
     <structuredidentifier>
       <project-number part="1">17301</project-number>
     </structuredidentifier>
-    <stagename abbreviation="CD IS">Draft circulated as CD International Standard</stagename>
+    <stagename abbreviation="CD IS">Committee Draft International Standard</stagename>
   </ext>
 </bibdata></relation>
 </relaton-collection>

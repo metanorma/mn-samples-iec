@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="presentation" version="2.9.0" schema-version="v2.2.0" flavor="iec">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="presentation" version="2.9.1" schema-version="v2.3.0" flavor="iec">
 <bibdata type="standard">
 <title language="en" type="main">Cereals and pulses — Specifications and test methods — Rice</title>
 
@@ -20,7 +20,7 @@
 <title language="fr" type="title-part">Riz</title>
 
 <title language="fr" type="title-part-prefix">Partie 1</title>
-<docidentifier type="ISO" primary="true">IEC CD 17301-1:2016 ED2</docidentifier><docidentifier type="iso-reference">IEC CD 17301-1:2016 ED2(fr)</docidentifier><docidentifier type="iso-revdate">IEC CD 17301-1:2016-05 ED2(fr)</docidentifier><docidentifier type="URN">urn:iec:std:iec:17301-1:2016:stage-30.92:ed-2:fr</docidentifier><docidentifier type="iso-undated">IEC CD 17301-1 ED2</docidentifier><docidentifier type="iso-with-lang">IEC CD 17301-1:2016 ED2(fr)</docidentifier><docidentifier type="iso-tc">17301</docidentifier><docnumber>17301</docnumber><date type="updated"><on>2016-05-01</on></date><contributor><role type="author"/><organization>
+<docidentifier type="ISO" primary="true">IEC CD 17301-1:2016 ED2</docidentifier><docidentifier type="iso-reference">IEC CD 17301-1:2016 ED2(fr)</docidentifier><docidentifier type="iso-revdate">IEC CD 17301-1:2016-05 ED2</docidentifier><docidentifier type="URN">urn:iec:std:iec:17301-1:2016:stage-30.92:ed-2:fr</docidentifier><docidentifier type="iso-undated">IEC CD 17301-1 ED2</docidentifier><docidentifier type="iso-with-lang">IEC CD 17301-1:2016 ED2(fr)</docidentifier><docidentifier type="iso-tc">17301</docidentifier><docnumber>17301</docnumber><date type="updated"><on>2016-05-01</on></date><contributor><role type="author"/><organization>
 <name>International Electrotechnical Commission</name>
 <abbreviation>IEC</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Electrotechnical Commission</name>
@@ -42,9 +42,9 @@
 <name>Cereals and pulses</name>
 <identifier id="_cbf34452-2c9e-a05a-8a8b-455b981a07c5">SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_cbf34452-2c9e-a05a-8a8b-455b981a07c5">SC 4</semx></tt></fmt-identifier></subdivision><subdivision type="Workgroup" subtype="WG">
 <name>Rice Group</name>
-<identifier id="_bb43b44b-f257-caf9-3312-c7675b59b6a2">WG 3</identifier><fmt-identifier><tt><semx element="identifier" source="_bb43b44b-f257-caf9-3312-c7675b59b6a2">WG 3</semx></tt></fmt-identifier></subdivision><abbreviation>IEC</abbreviation></organization></contributor><edition>2</edition><version>2016-05-01</version><language current="true">fr</language><script current="true">Latn</script><status><stage abbreviation="CD" language="">30</stage><stage abbreviation="CD" language="fr">Projet de comité</stage><stage abbreviation="CD" language="en">Committee draft</stage><substage>92</substage></status><copyright><from>2016</from><owner><organization>
+<identifier id="_bb43b44b-f257-caf9-3312-c7675b59b6a2">WG 3</identifier><fmt-identifier><tt><semx element="identifier" source="_bb43b44b-f257-caf9-3312-c7675b59b6a2">WG 3</semx></tt></fmt-identifier></subdivision><abbreviation>IEC</abbreviation></organization></contributor><edition>2</edition><version>2016-05-01</version><language current="true">fr</language><script current="true">Latn</script><status><stage language="">30</stage><stage language="fr">Projet de comité</stage><stage language="en">Committee draft</stage><substage>92</substage></status><copyright><from>2016</from><owner><organization>
 <name>International Electrotechnical Commission</name>
-<abbreviation>IEC</abbreviation></organization></owner></copyright><ext><doctype language="">international-standard</doctype><doctype language="fr">Norme internationale</doctype><doctype language="en">International Standard</doctype><flavor>iec</flavor><structuredidentifier><project-number part="1">17301</project-number></structuredidentifier><stagename abbreviation="CD IS">Draft circulated as CD International Standard</stagename></ext></bibdata><localized-strings><localized-string key="term_def_boilerplate" language="en">ISO and IEC maintain terminological databases for use in standardization at the following addresses:
+<abbreviation>IEC</abbreviation></organization></owner></copyright><ext><doctype language="">international-standard</doctype><doctype language="fr">Norme internationale</doctype><doctype language="en">International Standard</doctype><flavor>iec</flavor><structuredidentifier><project-number part="1">17301</project-number></structuredidentifier><stagename abbreviation="CD IS">Committee Draft International Standard</stagename></ext></bibdata><localized-strings><localized-string key="term_def_boilerplate" language="en">ISO and IEC maintain terminological databases for use in standardization at the following addresses:
 
 * IEC Electropedia: available at http://www.electropedia.org[]
 * ISO Online browsing platform: available at http://www.iso.org/obp[]
@@ -251,8 +251,8 @@ sourcecode .nt {
 <p class="zzSTDTitle1"> </p>
 </p></p>
 
-<clause id="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" type="scope" inline-header="false" obligation="normative" semx-id="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" displayorder="14"><fmt-annotation-start id="_ac1ade04-6ae3-a3b1-7d22-882e5dfba7ac" source="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" target="_7bb1fe2d-7801-3969-cdb8-25b352a54322" end="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" author="" date="2026-10-27"/>
-<title id="_8b418d73-8156-f68e-5d34-5a218ce2418a" semx-id="_7ad1c7e2-e05a-e40c-dc13-05c6da8495d4">Domaine d’application<fmt-annotation-end id="_71a591f3-e46e-3a2f-dcc6-ef81b1280e10" source="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" target="_7bb1fe2d-7801-3969-cdb8-25b352a54322" start="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" author="" date="2026-10-27"/></title><fmt-title depth="1" id="_9a153ae2-a9ba-ac1a-a2af-39b8b841f428"><span class="fmt-caption-label"><semx element="autonum" source="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07">1</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_8b418d73-8156-f68e-5d34-5a218ce2418a">Domaine d’application</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Article</span> <semx element="autonum" source="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07">1</semx></fmt-xref-label>
+<clause id="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" type="scope" inline-header="false" obligation="normative" semx-id="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" displayorder="14"><fmt-annotation-start id="_ac1ade04-6ae3-a3b1-7d22-882e5dfba7ac" source="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" target="_7bb1fe2d-7801-3969-cdb8-25b352a54322" end="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" author="" date="2026-11-04"/>
+<title id="_8b418d73-8156-f68e-5d34-5a218ce2418a" semx-id="_7ad1c7e2-e05a-e40c-dc13-05c6da8495d4">Domaine d’application<fmt-annotation-end id="_71a591f3-e46e-3a2f-dcc6-ef81b1280e10" source="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" target="_7bb1fe2d-7801-3969-cdb8-25b352a54322" start="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" author="" date="2026-11-04"/></title><fmt-title depth="1" id="_9a153ae2-a9ba-ac1a-a2af-39b8b841f428"><span class="fmt-caption-label"><semx element="autonum" source="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07">1</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_8b418d73-8156-f68e-5d34-5a218ce2418a">Domaine d’application</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Article</span> <semx element="autonum" source="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07">1</semx></fmt-xref-label>
 <p id="_75e8ab68-a14a-3f14-e2d6-7d31586271e6" semx-id="_75e8ab68-a14a-3f14-e2d6-7d31586271e6">Le présent document spécifie les exigences minimales du riz (<em>Oryza sativa</em> L.).</p>
 
 <p id="_c9d9ed9a-c057-f1c1-35f9-df01dbda33bd" semx-id="_c9d9ed9a-c057-f1c1-35f9-df01dbda33bd">Il est applicable aux riz décortiqué, étuvé décortiqué, usiné et étuvé usiné, destinés à la consommation humaine soit directement, soit après usinage.</p>
@@ -386,7 +386,7 @@ sourcecode .nt {
 <name language="en" id="_fb242d25-51fb-d493-af0a-b032c1ed692a">damaged kernel</name><name language="fr" id="_b0d04273-ac8d-f64b-1053-9d4562496b0c">grain endommagé</name>
 </expression>
 </preferred><fmt-preferred><p><semx element="preferred" source="_dadd1d86-d6cc-6485-499c-d2905a7a72d7"><strong><semx element="expression/name" source="_fb242d25-51fb-d493-af0a-b032c1ed692a">damaged kernel</semx></strong></semx></p></fmt-preferred>
-<definition id="_72c35fe0-dade-2c2d-4d2a-d77f951cec2e" semx-id="_72c35fe0-dade-2c2d-4d2a-d77f951cec2e"><verbal-definition semx-id="_32c9853e-2ad0-cd79-9ad9-7dfe5c5a09c5" id="_32c9853e-2ad0-cd79-9ad9-7dfe5c5a09c5"><p semx-id="_aaf2752e-ec43-db46-1eee-4635f439d0c6" original-id="_aaf2752e-ec43-db46-1eee-4635f439d0c6">grain ou partie de grain présentant distinctement une détérioration provoquée par l’humidité, les déprédateurs, les maladies ou d’autres causes, mais qui n’est pas un <concept><refterm>HDK</refterm><renderterm>HDK</renderterm><xref target="term-HDK"/></concept></p></verbal-definition></definition><fmt-definition id="_78532008-75ee-9ca9-66d8-68e2a6a2563a"><semx element="definition" source="_72c35fe0-dade-2c2d-4d2a-d77f951cec2e"><p id="_aaf2752e-ec43-db46-1eee-4635f439d0c6" semx-id="_aaf2752e-ec43-db46-1eee-4635f439d0c6">grain ou partie de grain présentant distinctement une détérioration provoquée par l’humidité, les déprédateurs, les maladies ou d’autres causes, mais qui n’est pas un <concept id="_03da0633-374a-6991-30ce-d900124dea6f"><refterm>HDK</refterm><renderterm>HDK</renderterm><xref target="term-HDK" id="_33d797e6-c5c7-6e22-beaa-7f6081411a1c"/></concept><fmt-concept><semx element="concept" source="_03da0633-374a-6991-30ce-d900124dea6f"><em>HDK</em> <semx element="xref" source="_33d797e6-c5c7-6e22-beaa-7f6081411a1c">(<fmt-xref target="term-HDK"><span class="citesec"><semx element="autonum" source="_f2a2fae8-48b8-197a-48b6-4ba1335911db">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-HDK">7</semx></span></fmt-xref>)</semx></semx></fmt-concept></p></semx></fmt-definition>
+<definition id="_72c35fe0-dade-2c2d-4d2a-d77f951cec2e" semx-id="_72c35fe0-dade-2c2d-4d2a-d77f951cec2e"><verbal-definition semx-id="_32c9853e-2ad0-cd79-9ad9-7dfe5c5a09c5" id="_32c9853e-2ad0-cd79-9ad9-7dfe5c5a09c5"><p semx-id="_aaf2752e-ec43-db46-1eee-4635f439d0c6" original-id="_aaf2752e-ec43-db46-1eee-4635f439d0c6">grain ou partie de grain présentant distinctement une détérioration provoquée par l’humidité, les déprédateurs, les maladies ou d’autres causes, mais qui n’est pas un <concept id="_3508836b-d15b-1037-49ac-85abcbc9f940"><refterm>HDK</refterm><renderterm>HDK</renderterm><xref target="term-HDK"/></concept><fmt-concept><semx element="concept" source="_3508836b-d15b-1037-49ac-85abcbc9f940"><em>HDK</em></semx></fmt-concept></p></verbal-definition></definition><fmt-definition id="_e628ba19-cefb-05f0-0472-c41e120b3823"><semx element="definition" source="_72c35fe0-dade-2c2d-4d2a-d77f951cec2e"><p id="_aaf2752e-ec43-db46-1eee-4635f439d0c6" semx-id="_aaf2752e-ec43-db46-1eee-4635f439d0c6">grain ou partie de grain présentant distinctement une détérioration provoquée par l’humidité, les déprédateurs, les maladies ou d’autres causes, mais qui n’est pas un <concept><refterm>HDK</refterm><renderterm>HDK</renderterm><xref target="term-HDK" id="_b35aa545-70e6-b4d7-1f70-a04600ba8d07"/><semx element="xref" source="_b35aa545-70e6-b4d7-1f70-a04600ba8d07"><fmt-xref target="term-HDK"><span class="citesec"><semx element="autonum" source="_f2a2fae8-48b8-197a-48b6-4ba1335911db">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-HDK">7</semx></span></fmt-xref></semx></concept></p></semx></fmt-definition>
  </term>
 
 <term id="term-immature-kernel-grain-immature" anchor="term-immature-kernel-grain-immature" semx-id="_418459ee-2554-e056-88a1-371243a505aa"><fmt-name id="_56afdba3-4b09-0f2b-bcaf-a25a4939f4d0"><span class="fmt-caption-label"><semx element="autonum" source="_f2a2fae8-48b8-197a-48b6-4ba1335911db">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-immature-kernel-grain-immature">9</semx></span></fmt-name><fmt-xref-label><semx element="autonum" source="_f2a2fae8-48b8-197a-48b6-4ba1335911db">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-immature-kernel-grain-immature">9</semx></fmt-xref-label><preferred id="_7797b32d-cba2-3afa-4039-a31ad597dffb"><expression>
@@ -848,13 +848,13 @@ sourcecode .nt {
 
 
 
-<references id="_35cf6756-bc87-6d0c-c78a-f83cf8a7b921" normative="true" obligation="informative" semx-id="_35cf6756-bc87-6d0c-c78a-f83cf8a7b921" displayorder="15">
-<title id="_45784455-87e3-3d08-7ae8-8d2525eb06c7" semx-id="_4f45c8bd-1ba1-78c9-9db1-428e22601996">Références normatives</title><fmt-title depth="1" id="_0a5a22a5-884c-55c0-d988-670550846b3b"><span class="fmt-caption-label"><semx element="autonum" source="_35cf6756-bc87-6d0c-c78a-f83cf8a7b921">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_45784455-87e3-3d08-7ae8-8d2525eb06c7">Références normatives</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Article</span> <semx element="autonum" source="_35cf6756-bc87-6d0c-c78a-f83cf8a7b921">2</semx></fmt-xref-label><p id="_21da3ff3-c14e-d036-ec1a-22dd5da6ee5e" semx-id="_21da3ff3-c14e-d036-ec1a-22dd5da6ee5e">Les documents suivants cités dans le texte constituent, pour tout ou partie de leur contenu, des exigences du présent document. Pour les références datées, seule l’édition citée s’applique. Pour les références non datées, la dernière édition du document de référence s’applique (y compris les éventuels amendements).</p>
+<references id="_1e0d3a01-5855-a5df-c56e-090ef67ca18a" normative="true" obligation="informative" semx-id="_1e0d3a01-5855-a5df-c56e-090ef67ca18a" displayorder="15">
+<title id="_45784455-87e3-3d08-7ae8-8d2525eb06c7" semx-id="_4f45c8bd-1ba1-78c9-9db1-428e22601996">Références normatives</title><fmt-title depth="1" id="_0a5a22a5-884c-55c0-d988-670550846b3b"><span class="fmt-caption-label"><semx element="autonum" source="_1e0d3a01-5855-a5df-c56e-090ef67ca18a">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_45784455-87e3-3d08-7ae8-8d2525eb06c7">Références normatives</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Article</span> <semx element="autonum" source="_1e0d3a01-5855-a5df-c56e-090ef67ca18a">2</semx></fmt-xref-label><p id="_21da3ff3-c14e-d036-ec1a-22dd5da6ee5e" semx-id="_21da3ff3-c14e-d036-ec1a-22dd5da6ee5e">Les documents suivants cités dans le texte constituent, pour tout ou partie de leur contenu, des exigences du présent document. Pour les références datées, seule l’édition citée s’applique. Pour les références non datées, la dernière édition du document de référence s’applique (y compris les éventuels amendements).</p>
 
 
-<bibitem id="ISO712" type="standard" schema-version="v1.5.6" anchor="ISO712" semx-id="_fbcd9aee-5156-6c1c-73c4-3badb8532949"><biblio-tag>ISO 712<fn id="_dd1a35d7-8438-e9ac-a1df-17b8b90a6b6d" reference="1" original-reference="_b1c71607-2055-4644-96c7-1bba0cc8f4de" target="_e6b167ed-0d3d-ba10-6609-e4c73a1afd9f"><p>Retiré.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_dd1a35d7-8438-e9ac-a1df-17b8b90a6b6d">1</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
-, </biblio-tag><formattedref><em><span class="stddocTitle">Céréales et produits céréaliers — Détermination de la teneur en eau — Méthode de référence</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<bibitem id="ISO712" type="standard" schema-version="v1.5.6" anchor="ISO712" semx-id="_9eb2acc8-4972-99ca-bf5d-193a1cf80d3c"><biblio-tag>ISO 712<fn id="_dd1a35d7-8438-e9ac-a1df-17b8b90a6b6d" reference="1" original-reference="_23a0c2fb-d973-474b-96b7-4d922697ba13" target="_e6b167ed-0d3d-ba10-6609-e4c73a1afd9f"><p>Retiré.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_dd1a35d7-8438-e9ac-a1df-17b8b90a6b6d">1</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Cereals and cereal products — Determination of moisture content — Reference method_. Report no. 712. Fourth édition. Geneva: International Organization for Standardization, ISO 712. iso-reference ISO 712(E). URN urn:iso:std:iso:712:stage-95.99. Available from: https://www.iso.org/standard/44807.html.</formattedref>
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -883,7 +883,6 @@ sourcecode .nt {
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:44807:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/04/48/44807.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 712</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 712</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 712(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:712:stage-95.99</docidentifier><docidentifier scope="biblio-tag">ISO 712</docidentifier>
   <docnumber>712</docnumber>
@@ -909,7 +908,7 @@ sourcecode .nt {
         
 <name>Cereals and pulses</name>
 
-        <identifier id="_27744752-a038-84ef-17c7-616dd91ade42">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_27744752-a038-84ef-17c7-616dd91ade42">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+        <identifier id="_700a9a64-4812-0600-0b75-a288b442597e">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_700a9a64-4812-0600-0b75-a288b442597e">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -1010,7 +1009,7 @@ sourcecode .nt {
             
 <name>Cereals and pulses</name>
 
-            <identifier id="_d514a5aa-83b3-8573-d756-31934d407c6f">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_d514a5aa-83b3-8573-d756-31934d407c6f">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+            <identifier id="_fe64e822-87e5-af70-696a-1f2ab01cae3c">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_fe64e822-87e5-af70-696a-1f2ab01cae3c">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -1063,8 +1062,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO6646" type="standard" schema-version="v1.5.6" anchor="ISO6646" semx-id="_6f5dfaf8-188d-1ef5-b56a-ba10699b031a"><biblio-tag>ISO 6646, </biblio-tag><formattedref><em><span class="stddocTitle">Riz — Détermination des rendements d’usinage à partir du riz paddy et du riz décortiqué</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<bibitem id="ISO6646" type="standard" schema-version="v1.5.6" anchor="ISO6646" semx-id="_b954ce24-145a-4118-6172-dd2d99dad6c9"><biblio-tag>ISO 6646, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Rice — Determination of the potential milling yield from paddy and from husked rice_. Report no. 6646. Third édition. Geneva: International Organization for Standardization, ISO 6646. iso-reference ISO 6646(E). URN urn:iso:std:iso:6646:stage-90.93. Available from: https://www.iso.org/standard/51072.html.</formattedref>
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -1087,7 +1086,6 @@ sourcecode .nt {
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51072:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/10/51072.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6646</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 6646</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 6646(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:6646:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 6646</docidentifier>
   <docnumber>6646</docnumber>
@@ -1113,7 +1111,7 @@ sourcecode .nt {
         
 <name>Cereals and pulses</name>
 
-        <identifier id="_4af86017-3d72-f702-ea80-6c0268e17c6c">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_4af86017-3d72-f702-ea80-6c0268e17c6c">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+        <identifier id="_2f0b2ad3-478f-793d-9f97-5f605ae0085e">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_2f0b2ad3-478f-793d-9f97-5f605ae0085e">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -1208,7 +1206,7 @@ sourcecode .nt {
             
 <name>Cereals and pulses</name>
 
-            <identifier id="_d466eef6-8338-2249-c13b-046b495fb23d">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_d466eef6-8338-2249-c13b-046b495fb23d">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+            <identifier id="_12740858-98ff-7e61-8c47-15d967742a7e">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_12740858-98ff-7e61-8c47-15d967742a7e">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -1261,8 +1259,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO8351-1" type="standard" schema-version="v1.5.6" anchor="ISO8351-1" semx-id="_bed4ad6d-043c-6382-bc98-25bdc95276ae"><biblio-tag>ISO 8351-1:1994, </biblio-tag><formattedref><em><span class="stddocTitle">Emballages — Méthode de spécification des sacs — Partie 1: Sacs en papier</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<bibitem id="ISO8351-1" type="standard" schema-version="v1.5.6" anchor="ISO8351-1" semx-id="_d068f147-6258-927b-c37a-d8f7f4606968"><biblio-tag>ISO 8351-1:1994, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Packaging — Method of specification for sacks — Part 1: Paper sacks_. Report no. 8351. First édition. Geneva: International Organization for Standardization, 1994. ISO 8351-1:1994. iso-undated ISO 8351-1. iso-reference ISO 8351-1:1994(E). URN urn:iso:std:iso:8351:-1:stage-90.92. Available from: https://www.iso.org/standard/15496.html.</formattedref>
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1355,8 +1353,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO8351-2" type="standard" schema-version="v1.5.6" anchor="ISO8351-2" semx-id="_91580728-2891-1285-9fb9-f3a3378a4548"><biblio-tag>ISO 8351-2, </biblio-tag><formattedref><em><span class="stddocTitle">Emballages — Méthode de spécification des sacs — Partie 2: Sacs faits d’un film thermoplastique flexible</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<bibitem id="ISO8351-2" type="standard" schema-version="v1.5.6" anchor="ISO8351-2" semx-id="_3b860db9-ae77-63e7-812c-0034622e148a"><biblio-tag>ISO 8351-2, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Packaging — Method of specification for sacks — Part 2: Sacks made from thermoplastic flexible film_. Report no. 8351. First édition. Geneva: International Organization for Standardization, ISO 8351-2. iso-reference ISO 8351-2(E). URN urn:iso:std:iso:8351:-2:stage-90.93. Available from: https://www.iso.org/standard/1818.html.</formattedref>
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1385,7 +1383,6 @@ sourcecode .nt {
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:1818:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/00/18/1818.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 8351-2</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 8351-2</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 8351-2(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:8351:-2:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 8351-2</docidentifier>
   <docnumber>8351</docnumber>
@@ -1411,7 +1408,7 @@ sourcecode .nt {
         
 <name>Packaging</name>
 
-        <identifier id="_c22a34b6-87ac-9980-d65a-5d05acaa690f">ISO/TC 122</identifier><fmt-identifier><tt><semx element="identifier" source="_c22a34b6-87ac-9980-d65a-5d05acaa690f">ISO/TC 122</semx></tt></fmt-identifier>
+        <identifier id="_e23e0c20-b8fd-f1b0-969a-4b2e35d27d33">ISO/TC 122</identifier><fmt-identifier><tt><semx element="identifier" source="_e23e0c20-b8fd-f1b0-969a-4b2e35d27d33">ISO/TC 122</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -1493,7 +1490,7 @@ sourcecode .nt {
             
 <name>Packaging</name>
 
-            <identifier id="_c41850fa-eec1-0ef5-6924-02b09c60a311">ISO/TC 122</identifier><fmt-identifier><tt><semx element="identifier" source="_c41850fa-eec1-0ef5-6924-02b09c60a311">ISO/TC 122</semx></tt></fmt-identifier>
+            <identifier id="_03138e0a-78a4-2b58-9c58-09d390ac9076">ISO/TC 122</identifier><fmt-identifier><tt><semx element="identifier" source="_03138e0a-78a4-2b58-9c58-09d390ac9076">ISO/TC 122</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -1527,15 +1524,15 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem anchor="ISO16634" id="ISO16634" type="standard" semx-id="_e0b821b0-3238-a460-a847-2986132ebda6"><biblio-tag>ISO 16634:—<fn id="_e9aa3c11-656e-c134-89fc-6cc258fa0fe8" reference="2" original-reference="_85f6eb2d-9a49-435f-a680-e8209fc0dfd1" target="_51f6747b-fc2d-74ad-2578-c83f16e15963"><p>En cours d’élaboration. (Stade au moment de la publication ISO/DIS 16634).</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_e9aa3c11-656e-c134-89fc-6cc258fa0fe8">2</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
-, </biblio-tag><formattedref><em><span class="stddocTitle">Céréales, légumineuses, produits de mouture des céréales, graines oléagineuses et aliments des animaux — Détermination de la teneur en azote total par combustion selon le principe Dumas et calcul de la teneur en protéines brutes</span></em></formattedref>
+<bibitem anchor="ISO16634" id="ISO16634" type="standard" semx-id="_e0b821b0-3238-a460-a847-2986132ebda6"><biblio-tag>ISO 16634:—<fn id="_e9aa3c11-656e-c134-89fc-6cc258fa0fe8" reference="2" original-reference="_da34c563-ede7-4922-82f7-b50418ee855f" target="_51f6747b-fc2d-74ad-2578-c83f16e15963"><p>En cours d’élaboration. (Stade au moment de la publication ISO/DIS 16634).</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_e9aa3c11-656e-c134-89fc-6cc258fa0fe8">2</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+, </biblio-tag><formattedref><span class="stddocTitle">Céréales, légumineuses, produits de mouture des céréales, graines oléagineuses et aliments des animaux — Détermination de la teneur en azote total par combustion selon le principe Dumas et calcul de la teneur en protéines brutes</span>.</formattedref>
 <title format="text/plain">Céréales, légumineuses, produits de mouture des céréales, graines oléagineuses et aliments des animaux — Détermination de la teneur en azote total par combustion selon le principe Dumas et calcul de la teneur en protéines brutes</title>
 <docidentifier type="ISO">ISO 16634:—</docidentifier><docidentifier scope="biblio-tag">ISO 16634:—</docidentifier><docnumber>16634</docnumber><date type="published"><on>–</on></date><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><note format="text/plain" type="Unpublished-Status">En cours d’élaboration. (Stade au moment de la publication ISO/DIS 16634).</note><language>fr</language><script>Latn</script>
 </bibitem>
-<bibitem id="ISO20483" type="standard" schema-version="v1.5.6" anchor="ISO20483" semx-id="_05628c9c-9813-be7c-2c66-5324049c5fb8"><biblio-tag>ISO 20483:2013, </biblio-tag><formattedref><em><span class="stddocTitle">Céréales et légumineuses — Détermination de la teneur en azote et calcul de la teneur en protéines brutes — Méthode de Kjeldahl</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<bibitem id="ISO20483" type="standard" schema-version="v1.5.6" anchor="ISO20483" semx-id="_8f6aa0c7-1efd-1e25-0ce1-efecb1fa990a"><biblio-tag>ISO 20483:2013, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Cereals and pulses — Determination of the nitrogen content and calculation of the crude protein content — Kjeldahl method_. Report no. 20483. Second édition. Geneva: International Organization for Standardization, 2013. ISO 20483:2013. iso-undated ISO 20483. iso-reference ISO 20483:2013(E). URN urn:iso:std:iso:20483:stage-90.93. Available from: https://www.iso.org/standard/59162.html.</formattedref>
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and pulses</title>
 
@@ -1633,8 +1630,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO24333" type="standard" schema-version="v1.5.6" anchor="ISO24333" semx-id="_62b26cc3-266d-d4eb-8c80-75efc90b6bb6"><biblio-tag>ISO 24333:2009, </biblio-tag><formattedref><em><span class="stddocTitle">Céréales et produits céréaliers — Échantillonnage</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<bibitem id="ISO24333" type="standard" schema-version="v1.5.6" anchor="ISO24333" semx-id="_0c21c02f-22f4-3302-05bd-8516ce088425"><biblio-tag>ISO 24333:2009, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Cereals and cereal products — Sampling_. Report no. 24333. First édition. Geneva: International Organization for Standardization, 2009. ISO 24333:2009. iso-undated ISO 24333. iso-reference ISO 24333:2009(E). URN urn:iso:std:iso:24333:stage-90.92. Available from: https://www.iso.org/standard/42165.html.</formattedref>
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -2542,9 +2539,9 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
 </tr></tbody>
 <fmt-footnote-container><fmt-fn-body id="_0cfb9d15-5e7c-ff41-f41e-56e5a945cb4a" target="_dd179c4c-74f8-64e5-145d-23b7007cd411" reference="a"><semx element="fn" source="_dd179c4c-74f8-64e5-145d-23b7007cd411"><p id="_054574eb-ce39-6b7b-cd3c-f56f137c5d21" semx-id="_054574eb-ce39-6b7b-cd3c-f56f137c5d21"><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_dd179c4c-74f8-64e5-145d-23b7007cd411">a</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>Riz étuvé.</p>
 </semx></fmt-fn-body></fmt-footnote-container></table>
-</annex><bibliography><references id="_bc0649e6-8c0c-0376-78dd-7878b2f13aec" normative="false" obligation="informative" semx-id="_bc0649e6-8c0c-0376-78dd-7878b2f13aec" displayorder="27">
-<title id="_13a3bcec-f392-c2ab-111d-c16bd6a19c88" semx-id="_086fd3ae-8b31-2f2e-6ab5-296a5446feac">Bibliographie</title><fmt-title depth="1" id="_b6fe7716-b4b4-bbb7-d92a-a07452c09209"><semx element="title" source="_13a3bcec-f392-c2ab-111d-c16bd6a19c88">Bibliographie</semx></fmt-title><bibitem id="ISO3696" type="standard" schema-version="v1.5.6" anchor="ISO3696" semx-id="_339c568d-be6a-f554-d8a0-0f40a9db3450"><biblio-tag>[1]<tab/>ISO 3696, </biblio-tag><formattedref><em><span class="stddocTitle">Eau pour laboratoire à usage analytique — Spécification et méthodes d’essai</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</annex><bibliography><references id="_f06c8d19-2754-d0ea-35d9-0f38517c740e" normative="false" obligation="informative" semx-id="_f06c8d19-2754-d0ea-35d9-0f38517c740e" displayorder="27">
+<title id="_13a3bcec-f392-c2ab-111d-c16bd6a19c88" semx-id="_086fd3ae-8b31-2f2e-6ab5-296a5446feac">Bibliographie</title><fmt-title depth="1" id="_b6fe7716-b4b4-bbb7-d92a-a07452c09209"><semx element="title" source="_13a3bcec-f392-c2ab-111d-c16bd6a19c88">Bibliographie</semx></fmt-title><bibitem id="ISO3696" type="standard" schema-version="v1.5.6" anchor="ISO3696" semx-id="_5082874b-62c4-ddae-67aa-e900a754af6b"><biblio-tag>[1]<tab/>ISO 3696, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Water for analytical laboratory use — Specification and test methods_. Report no. 3696. First édition. Geneva: International Organization for Standardization, ISO 3696. iso-reference ISO 3696(E). URN urn:iso:std:iso:3696:stage-90.93. Available from: https://www.iso.org/standard/9169.html.</formattedref>
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Water for analytical laboratory use</title>
 
@@ -2567,7 +2564,6 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:9169:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/00/91/9169.detail.rss</uri><docidentifier type="metanorma-ordinal">[1]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 3696</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 3696</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 3696(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:3696:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 3696</docidentifier>
   <docnumber>3696</docnumber>
@@ -2593,7 +2589,7 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
         
 <name>Chemistry</name>
 
-        <identifier id="_bb1f74e5-a49b-ec3d-d5b4-6a328b366bd8">ISO/TC 47</identifier><fmt-identifier><tt><semx element="identifier" source="_bb1f74e5-a49b-ec3d-d5b4-6a328b366bd8">ISO/TC 47</semx></tt></fmt-identifier>
+        <identifier id="_49fc2bcb-4713-a4d2-94f2-91cb0adf132e">ISO/TC 47</identifier><fmt-identifier><tt><semx element="identifier" source="_49fc2bcb-4713-a4d2-94f2-91cb0adf132e">ISO/TC 47</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -2669,7 +2665,7 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
             
 <name>Chemistry</name>
 
-            <identifier id="_c2905190-a113-fb9e-f859-27e5e5eaf3f1">ISO/TC 47</identifier><fmt-identifier><tt><semx element="identifier" source="_c2905190-a113-fb9e-f859-27e5e5eaf3f1">ISO/TC 47</semx></tt></fmt-identifier>
+            <identifier id="_5520b453-c00e-a824-39d0-fca75282817a">ISO/TC 47</identifier><fmt-identifier><tt><semx element="identifier" source="_5520b453-c00e-a824-39d0-fca75282817a">ISO/TC 47</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -2702,8 +2698,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO5725-1" type="standard" schema-version="v1.5.6" anchor="ISO5725-1" semx-id="_a05541f2-79fc-613e-be41-b0f3f26d3a9c"><biblio-tag>[2]<tab/>ISO 5725-1, </biblio-tag><formattedref><em><span class="stddocTitle">Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 1: Principes généraux et définitions</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO5725-1" type="standard" schema-version="v1.5.6" anchor="ISO5725-1" semx-id="_08113102-9104-4024-c91b-b6f3857235ae"><biblio-tag>[2]<tab/>ISO 5725-1, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions_. Report no. 5725. First édition. Geneva: International Organization for Standardization, ISO 5725-1. iso-reference ISO 5725-1(E). URN urn:iso:std:iso:5725:-1:stage-95.99. Available from: https://www.iso.org/standard/11833.html.</formattedref>
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2726,7 +2722,6 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:11833:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/01/18/11833.detail.rss</uri><docidentifier type="metanorma-ordinal">[2]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 5725-1</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 5725-1</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 5725-1(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:5725:-1:stage-95.99</docidentifier><docidentifier scope="biblio-tag">ISO 5725-1</docidentifier>
   <docnumber>5725</docnumber>
@@ -2752,7 +2747,7 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
         
 <name>Measurement methods and results</name>
 
-        <identifier id="_9c48caf2-ff60-81f5-2cc4-109c4a5bc4aa">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_9c48caf2-ff60-81f5-2cc4-109c4a5bc4aa">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
+        <identifier id="_d7f8d9b3-f07d-f69d-b9ea-aaac97c8d351">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_d7f8d9b3-f07d-f69d-b9ea-aaac97c8d351">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -2848,7 +2843,7 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
             
 <name>Measurement methods and results</name>
 
-            <identifier id="_29a05baa-db7e-55e3-1b53-c5d1217143e2">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_29a05baa-db7e-55e3-1b53-c5d1217143e2">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
+            <identifier id="_ff7a932b-79c6-5e9d-04b0-a63087d436df">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_ff7a932b-79c6-5e9d-04b0-a63087d436df">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -2901,9 +2896,9 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO5725-2" type="standard" schema-version="v1.5.6" anchor="ISO5725-2" semx-id="_a9aacdcc-14c4-deed-9f0d-68ee306cf095"><biblio-tag>[3]<tab/>ISO 5725-2<fn id="_84a1d1b0-806a-4f1a-ac5d-cff90516c65e" reference="7" original-reference="_8a59982e-07da-4716-bab5-250c24ba6180" target="_c06540fb-d076-080f-21f5-c899e3d77134"><p>Retiré.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_84a1d1b0-806a-4f1a-ac5d-cff90516c65e">7</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
-, </biblio-tag><formattedref><em><span class="stddocTitle">Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 2: Méthode de base pour la détermination de la répétabilité et de la reproductibilité d’une méthode de mesure normalisée</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO5725-2" type="standard" schema-version="v1.5.6" anchor="ISO5725-2" semx-id="_36fef3f7-8ff4-54cf-ca2c-89ccdd931547"><biblio-tag>[3]<tab/>ISO 5725-2<fn id="_84a1d1b0-806a-4f1a-ac5d-cff90516c65e" reference="7" original-reference="_7c8d9a7f-67c6-4a7e-a709-d58129d08442" target="_c06540fb-d076-080f-21f5-c899e3d77134"><p>Retiré.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_84a1d1b0-806a-4f1a-ac5d-cff90516c65e">7</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Accuracy (trueness and precision) of measurement methods and results — Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method_. Report no. 5725. First édition. Geneva: International Organization for Standardization, ISO 5725-2. iso-reference ISO 5725-2(E). URN urn:iso:std:iso:5725:-2:stage-95.99. Available from: https://www.iso.org/standard/11834.html.</formattedref>
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2926,7 +2921,6 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:11834:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/01/18/11834.detail.rss</uri><docidentifier type="metanorma-ordinal">[3]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 5725-2</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 5725-2</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 5725-2(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:5725:-2:stage-95.99</docidentifier><docidentifier scope="biblio-tag">ISO 5725-2</docidentifier>
   <docnumber>5725</docnumber>
@@ -2952,7 +2946,7 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
         
 <name>Measurement methods and results</name>
 
-        <identifier id="_ed65fc8c-c21a-ec7c-8555-830631ad086e">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_ed65fc8c-c21a-ec7c-8555-830631ad086e">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
+        <identifier id="_0b492fe8-fdf3-e194-01ed-4ff93d35f5fc">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_0b492fe8-fdf3-e194-01ed-4ff93d35f5fc">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -3055,7 +3049,7 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
             
 <name>Measurement methods and results</name>
 
-            <identifier id="_6553b37b-d6e7-43c3-a01c-97e3487d9c85">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_6553b37b-d6e7-43c3-a01c-97e3487d9c85">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
+            <identifier id="_c153248c-eee6-a86d-c777-097109065cf6">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_c153248c-eee6-a86d-c777-097109065cf6">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -3115,8 +3109,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO6322-1" type="standard" schema-version="v1.5.6" anchor="ISO6322-1" semx-id="_6968a43e-405a-17c9-f9f2-3b9bc06f1728"><biblio-tag>[4]<tab/>ISO 6322-1, </biblio-tag><formattedref><em><span class="stddocTitle">Stockage des céréales et des légumineuses — Partie 1: Recommandations générales pour la conservation des céréales</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO6322-1" type="standard" schema-version="v1.5.6" anchor="ISO6322-1" semx-id="_e67ff670-e007-15ab-7540-5b4e1f2b8a61"><biblio-tag>[4]<tab/>ISO 6322-1, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Storage of cereals and pulses — Part 1: General recommendations for the keeping of cereals_. Report no. 6322. Second édition. Geneva: International Organization for Standardization, ISO 6322-1. iso-reference ISO 6322-1(E). URN urn:iso:std:iso:6322:-1:stage-90.92. Available from: https://www.iso.org/standard/21396.html.</formattedref>
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3139,7 +3133,6 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21396:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/13/21396.detail.rss</uri><docidentifier type="metanorma-ordinal">[4]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 6322-1</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 6322-1</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 6322-1(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:6322:-1:stage-90.92</docidentifier><docidentifier scope="biblio-tag">ISO 6322-1</docidentifier>
   <docnumber>6322</docnumber>
@@ -3165,7 +3158,7 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
         
 <name>Cereals and pulses</name>
 
-        <identifier id="_5b0b0758-38db-69f7-97e5-8ef2db691612">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_5b0b0758-38db-69f7-97e5-8ef2db691612">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+        <identifier id="_96b3c3ba-cfc9-d935-ebfb-d5d175061fad">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_96b3c3ba-cfc9-d935-ebfb-d5d175061fad">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -3265,7 +3258,7 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
             
 <name>Cereals and pulses</name>
 
-            <identifier id="_5606c559-2832-d102-d272-7bf356910ffe">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_5606c559-2832-d102-d272-7bf356910ffe">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+            <identifier id="_cbf26e8e-4e61-cfad-1305-08cc21538b13">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_cbf26e8e-4e61-cfad-1305-08cc21538b13">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -3322,8 +3315,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO6322-2" type="standard" schema-version="v1.5.6" anchor="ISO6322-2" semx-id="_2b5308ae-7ca1-a521-0597-d81e291ca96b"><biblio-tag>[5]<tab/>ISO 6322-2, </biblio-tag><formattedref><em><span class="stddocTitle">Stockage des céréales et des légumineuses — Partie 2: Recommandations pratiques</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO6322-2" type="standard" schema-version="v1.5.6" anchor="ISO6322-2" semx-id="_37fd0ff0-452d-ac32-39c7-4742a27fe0fd"><biblio-tag>[5]<tab/>ISO 6322-2, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Storage of cereals and pulses — Part 2: Practical recommendations_. Report no. 6322. Second édition. Geneva: International Organization for Standardization, ISO 6322-2. iso-reference ISO 6322-2(E). URN urn:iso:std:iso:6322:-2:stage-90.93. Available from: https://www.iso.org/standard/21395.html.</formattedref>
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3346,7 +3339,6 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21395:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/13/21395.detail.rss</uri><docidentifier type="metanorma-ordinal">[5]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 6322-2</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 6322-2</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 6322-2(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:6322:-2:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 6322-2</docidentifier>
   <docnumber>6322</docnumber>
@@ -3372,7 +3364,7 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
         
 <name>Cereals and pulses</name>
 
-        <identifier id="_cf02850b-d0af-5a72-12ea-93ec7ccb05c5">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_cf02850b-d0af-5a72-12ea-93ec7ccb05c5">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+        <identifier id="_f784eb46-5a47-17b4-3362-196f7a747d7b">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_f784eb46-5a47-17b4-3362-196f7a747d7b">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -3458,7 +3450,7 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
             
 <name>Cereals and pulses</name>
 
-            <identifier id="_7de50c3f-86ea-c85d-b558-dd7af23d0de2">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_7de50c3f-86ea-c85d-b558-dd7af23d0de2">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+            <identifier id="_2b161d43-cb1e-8605-6c19-42b25e5ca82b">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_2b161d43-cb1e-8605-6c19-42b25e5ca82b">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -3500,8 +3492,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO6322-3" type="standard" schema-version="v1.5.6" anchor="ISO6322-3" semx-id="_0432ec24-ecd7-a29e-0ffa-9246665e3930"><biblio-tag>[6]<tab/>ISO 6322-3, </biblio-tag><formattedref><em><span class="stddocTitle">Stockage des céréales et des légumineuses — Partie 3: Contrôle de l’attaque par les déprédateurs</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO6322-3" type="standard" schema-version="v1.5.6" anchor="ISO6322-3" semx-id="_99415c07-95da-ba3c-04ac-497a064baae1"><biblio-tag>[6]<tab/>ISO 6322-3, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Storage of cereals and pulses — Part 3: Control of attack by pests_. Report no. 6322. Second édition. Geneva: International Organization for Standardization, ISO 6322-3. iso-reference ISO 6322-3(E). URN urn:iso:std:iso:6322:-3:stage-90.93. Available from: https://www.iso.org/standard/12614.html.</formattedref>
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3524,7 +3516,6 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:12614:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/01/26/12614.detail.rss</uri><docidentifier type="metanorma-ordinal">[6]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 6322-3</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 6322-3</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 6322-3(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:6322:-3:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 6322-3</docidentifier>
   <docnumber>6322</docnumber>
@@ -3550,7 +3541,7 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
         
 <name>Cereals and pulses</name>
 
-        <identifier id="_9748f709-6698-ad6d-5589-5ba15dd0aba6">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_9748f709-6698-ad6d-5589-5ba15dd0aba6">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+        <identifier id="_d291f217-aa4a-644a-35ec-47c7ee4d93d4">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_d291f217-aa4a-644a-35ec-47c7ee4d93d4">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -3636,7 +3627,7 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
             
 <name>Cereals and pulses</name>
 
-            <identifier id="_285e718f-967d-a5e6-a6a5-ad59f43663a3">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_285e718f-967d-a5e6-a6a5-ad59f43663a3">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+            <identifier id="_679d68ff-7994-8b5c-6e5d-7ec8a9b8a861">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_679d68ff-7994-8b5c-6e5d-7ec8a9b8a861">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -3679,8 +3670,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO7301" type="standard" schema-version="v1.5.6" anchor="ISO7301" semx-id="_f31953c0-c44c-4981-9745-b644d4c03184"><biblio-tag>[7]<tab/>ISO 7301:2011, </biblio-tag><formattedref><em><span class="stddocTitle">Riz — Spécifications</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO7301" type="standard" schema-version="v1.5.6" anchor="ISO7301" semx-id="_6b69bfba-0bd6-5ac3-87f8-1a078466764c"><biblio-tag>[7]<tab/>ISO 7301:2011, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Rice — Specification_. Report no. 7301. Third édition. Geneva: International Organization for Standardization, 2011. ISO 7301:2011. iso-undated ISO 7301. iso-reference ISO 7301:2011(E). URN urn:iso:std:iso:7301:stage-95.99. Available from: https://www.iso.org/standard/50935.html.</formattedref>
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3778,8 +3769,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.5.6" anchor="ISO14864" semx-id="_bda8a343-2e55-f7b9-cdc9-2f986f34c632"><biblio-tag>[8]<tab/>ISO 14864:1998, </biblio-tag><formattedref><em><span class="stddocTitle">Riz — Évaluation du temps de gélatinisation lors de la cuisson des grains</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.5.6" anchor="ISO14864" semx-id="_5f08f8b9-a60e-a568-88f4-d6ea1750223a"><biblio-tag>[8]<tab/>ISO 14864:1998, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Rice — Evaluation of gelatinization time of kernels during cooking_. Report no. 14864. First édition. Geneva: International Organization for Standardization, 1998. ISO 14864:1998. iso-undated ISO 14864. iso-reference ISO 14864:1998(E). URN urn:iso:std:iso:14864:stage-90.93. Available from: https://www.iso.org/standard/25793.html.</formattedref>
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3857,7 +3848,7 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem anchor="IEC61010-2" id="IEC61010-2" type="standard" semx-id="_1baef55e-1908-0cce-fd91-fff2700bce3f"><biblio-tag>[9]<tab/>IEC 61010-2:1998, </biblio-tag><formattedref><em><span class="stddocTitle">Règles de sécurité pour appareils électriques de mesurage, de régulation et de laboratoire — Part 2: Exigences particulières pour équipement de laboratoire pour l’échauffement des matières</span></em></formattedref>
+</bibitem><bibitem anchor="IEC61010-2" id="IEC61010-2" type="standard" semx-id="_1baef55e-1908-0cce-fd91-fff2700bce3f"><biblio-tag>[9]<tab/>IEC 61010-2:1998, </biblio-tag><formattedref><span class="stddocTitle">Règles de sécurité pour appareils électriques de mesurage, de régulation et de laboratoire — Part 2: Exigences particulières pour équipement de laboratoire pour l’échauffement des matières</span>.</formattedref>
 <title format="text/plain">Règles de sécurité pour appareils électriques de mesurage, de régulation et de laboratoire — Part 2: Exigences particulières pour équipement de laboratoire pour l’échauffement des matières</title><docidentifier type="metanorma-ordinal">[9]</docidentifier>
 <docidentifier type="IEC">IEC 61010-2:1998</docidentifier><docidentifier scope="biblio-tag">IEC 61010-2:1998</docidentifier><docnumber>61010-2</docnumber><date type="published"><on>1998</on></date><contributor><role type="publisher"/><organization>
 <name>International Electrotechnical Commission</name>
@@ -3914,9 +3905,9 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
 
 
 </references></bibliography>
-<annotation-container><annotation date="2026-10-27" reviewer="Metanorma" id="_ff9a0350-e2b9-f983-0acb-6b7017d97c67" from="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" to="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07">
+<annotation-container><annotation date="2026-11-04" reviewer="Metanorma" id="_ff9a0350-e2b9-f983-0acb-6b7017d97c67" from="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" to="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07">
 <p><strong>Metadata warnings:</strong></p> <p>Secretariat is missing.</p>
-</annotation><fmt-annotation-body date="2026-10-27" reviewer="Metanorma" from="_ac1ade04-6ae3-a3b1-7d22-882e5dfba7ac" to="_71a591f3-e46e-3a2f-dcc6-ef81b1280e10" id="_7bb1fe2d-7801-3969-cdb8-25b352a54322"><semx element="annotation" source="_ff9a0350-e2b9-f983-0acb-6b7017d97c67">
+</annotation><fmt-annotation-body date="2026-11-04" reviewer="Metanorma" from="_ac1ade04-6ae3-a3b1-7d22-882e5dfba7ac" to="_71a591f3-e46e-3a2f-dcc6-ef81b1280e10" id="_7bb1fe2d-7801-3969-cdb8-25b352a54322"><semx element="annotation" source="_ff9a0350-e2b9-f983-0acb-6b7017d97c67">
 <p><strong>Metadata warnings:</strong></p> <p>Secretariat is missing.</p>
 </semx></fmt-annotation-body>
 <annotation id="_010e1d47-ae44-56c1-4b70-2358c8a864d4" reviewer="ISO" from="foreword" to="foreword" type="review" date="2017-01-01T00:00:00Z" semx-id="_010e1d47-ae44-56c1-4b70-2358c8a864d4"><p semx-id="_9952beae-95bc-a4ad-9f66-98f690acfb67" original-id="_9952beae-95bc-a4ad-9f66-98f690acfb67">Un avant-propos doit figurer dans chaque document. Le texte générique est affiché ici. Il ne contient pas d’exigences, de recommandations ou d’autorisations.</p>

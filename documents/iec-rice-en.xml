@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="2.9.0" schema-version="v2.2.0" flavor="iec">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="2.9.1" schema-version="v2.3.0" flavor="iec">
 <bibdata type="standard">
 <title language="en" type="main">Cereals and pulses — Specifications and test methods — Rice</title>
 
@@ -20,7 +20,7 @@
 <title language="fr" type="title-part">Riz</title>
 
 <title language="fr" type="title-part-prefix">Partie 1</title>
-<docidentifier type="ISO" primary="true">IEC CD 17301-1:2016 ED2</docidentifier><docidentifier type="iso-reference">IEC CD 17301-1:2016 ED2(en)</docidentifier><docidentifier type="iso-revdate">IEC CD 17301-1:2016-05 ED2(en)</docidentifier><docidentifier type="URN">urn:iec:std:iec:17301-1:2016:stage-30.92:ed-2:en</docidentifier><docidentifier type="iso-undated">IEC CD 17301-1 ED2</docidentifier><docidentifier type="iso-with-lang">IEC CD 17301-1:2016 ED2(en)</docidentifier><docidentifier type="iso-tc">17301</docidentifier><docnumber>17301</docnumber><date type="updated"><on>2016-05-01</on></date><contributor><role type="author"/><organization>
+<docidentifier type="ISO" primary="true">IEC CD 17301-1:2016 ED2</docidentifier><docidentifier type="iso-reference">IEC CD 17301-1:2016 ED2(en)</docidentifier><docidentifier type="iso-revdate">IEC CD 17301-1:2016-05 ED2</docidentifier><docidentifier type="URN">urn:iec:std:iec:17301-1:2016:stage-30.92:ed-2:en</docidentifier><docidentifier type="iso-undated">IEC CD 17301-1 ED2</docidentifier><docidentifier type="iso-with-lang">IEC CD 17301-1:2016 ED2(en)</docidentifier><docidentifier type="iso-tc">17301</docidentifier><docnumber>17301</docnumber><date type="updated"><on>2016-05-01</on></date><contributor><role type="author"/><organization>
 <name>International Electrotechnical Commission</name>
 <abbreviation>IEC</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Electrotechnical Commission</name>
@@ -42,9 +42,9 @@
 <name>Cereals and pulses</name>
 <identifier>SC 4</identifier></subdivision><subdivision type="Workgroup" subtype="WG">
 <name>Rice Group</name>
-<identifier>WG 3</identifier></subdivision><abbreviation>IEC</abbreviation></organization></contributor><edition>2</edition><version>2016-05-01</version><language>en</language><script>Latn</script><status><stage abbreviation="CD">30</stage><substage>92</substage></status><copyright><from>2016</from><owner><organization>
+<identifier>WG 3</identifier></subdivision><abbreviation>IEC</abbreviation></organization></contributor><edition>2</edition><version>2016-05-01</version><language>en</language><script>Latn</script><status><stage>30</stage><substage>92</substage></status><copyright><from>2016</from><owner><organization>
 <name>International Electrotechnical Commission</name>
-<abbreviation>IEC</abbreviation></organization></owner></copyright><ext><doctype>international-standard</doctype><flavor>iec</flavor><structuredidentifier><project-number part="1">17301</project-number></structuredidentifier><stagename abbreviation="CD IS">Draft circulated as CD International Standard</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
+<abbreviation>IEC</abbreviation></organization></owner></copyright><ext><doctype>international-standard</doctype><flavor>iec</flavor><structuredidentifier><project-number part="1">17301</project-number></structuredidentifier><stagename abbreviation="CD IS">Committee Draft International Standard</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
 <presentation-metadata><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
@@ -827,14 +827,14 @@
 <title id="_6907294f-0e77-0bb1-eb93-bdaf102b113d">Test report</title>
 <p id="_1096d6de-c5bf-b067-44b7-f422bcf2efe6">Report the results as specified in <xref target="clause7" style="short"/>.</p>
 </clause>
-</annex><annex id="_99edef0a-f6a2-ee3f-ae33-b47b731c7b23" anchor="AnnexB" inline-header="false" obligation="informative">
+</annex><annex id="_5eb47012-0897-6cd2-2301-bb18ddf60bb2" anchor="AnnexB" inline-header="false" obligation="informative">
 <title id="_4b026aca-d90f-1e40-2282-cca353b039c8">Determination of the waxy rice content of parboiled rice</title>
 <clause id="_f1e90616-83fc-8a48-e9d5-b340bfef3b98" inline-header="false" obligation="informative">
 <title id="_191c6dff-fb5e-d20b-f0fe-f17d3b495a76">Principle</title>
 <p id="_c46b5a80-734c-aa9d-a45b-2c7520908959">Waxy rice kernels have a reddish brown colour when stained in an iodine solution, while non-waxy rice kernels show a dark blue colour.</p>
 </clause>
 
-<clause id="_11f10bb4-989f-4b01-43ec-ef96b306970b" inline-header="false" obligation="informative">
+<clause id="_9187d98b-81fb-1f3e-fba7-855c253e8c1b" inline-header="false" obligation="informative">
 <title id="_fce6fed1-f844-3a72-bc07-aba2b09c073e">Apparatus</title>
 <p id="_0c0158c8-0adc-cfa7-5b46-61a31758a2ec">The usual laboratory apparatus and, in particular, the following.</p>
 
@@ -853,9 +853,9 @@
 <p id="_7459bc0e-e887-7099-cf16-d0c2b01603de">or any white colour container of a suitable size.</p>
 </clause>
 
-<clause id="_1f214584-6a06-90e5-70e6-28e6e198802e" anchor="AnnexB-2-4" inline-header="true" obligation="informative">
+<clause id="_91b6bde3-1952-3c66-aa06-8211fc315004" anchor="AnnexB-2-4" inline-header="true" obligation="informative">
 <title id="_eab01c8d-9f38-15dc-f604-e15814917d52">Wire sieve,</title>
-<p id="_ef3c8907-4eab-0546-6733-ec25664b8c4d">with long rounded apertures of (1 mm <stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<p id="_9c062275-689a-8d48-b2ca-4ad5a4f4e2e6">with long rounded apertures of (1 mm <stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mrow>
       <mo/>
@@ -875,7 +875,7 @@
       <mo/>
     </mrow>
   </mstyle>
-</math><asciimath>{:(+0.02),(0):}</asciimath></stem> mm) × (20 mm <stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
+</math>}</stem> mm) × (20 mm <stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mrow>
       <mo/>
@@ -896,7 +896,7 @@
       <mo/>
     </mrow>
   </mstyle>
-</math><asciimath>{:(+2),(-1):}</asciimath></stem> mm).</p>
+</math>}</stem> mm).</p>
 </clause>
 
 <clause id="_a620e57f-da21-8689-c1d8-52161f3ec7ae" anchor="AnnexB-2-5" inline-header="true" obligation="informative">
@@ -1226,20 +1226,20 @@
 <example id="_b759a45e-3fb5-5bd1-942f-263318e2daaa" anchor="samplecode">
 <name id="_903236dc-2da7-261c-6a8b-263a7d8ef069">Sample Code</name>
 <sourcecode id="_42d8df53-f6ee-7d7c-a87d-0528efc13c89" lang="ruby"><body>puts "Hello, world."
-%w{a b c}.each do |x| <callout target="_ee3f8be7-e078-4adf-a7d5-e6fc9ad1182c">1</callout>
+%w{a b c}.each do |x| <callout target="_eeb954be-5935-4bf4-b1b8-1d62cfcfc011">1</callout>
   puts x
-end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor="_ee3f8be7-e078-4adf-a7d5-e6fc9ad1182c"><p id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc">This is an annotation</p>
+end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor="_eeb954be-5935-4bf4-b1b8-1d62cfcfc011"><p id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc">This is an annotation</p>
 </callout-annotation></sourcecode>
 
 
 </example>
 </appendix>
-</annex><bibliography><references id="_66472ef9-46b2-0ced-a280-d4717107f7fa" normative="true" obligation="informative">
+</annex><bibliography><references id="_d21aa74d-7306-1f45-3a0a-e9c68d788a25" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
 
 
-<bibitem id="_b9d0c25d-c21f-5877-cc58-a4d57efeb1c1" type="standard" schema-version="v1.5.6" anchor="ISO712">
-  <fetched>2026-10-27</fetched>
+<bibitem id="_eea304bf-a5a1-d2ed-b217-34285f1a1239" type="standard" schema-version="v1.5.6" anchor="ISO712">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -1268,7 +1268,6 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:44807:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/04/48/44807.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 712</docidentifier>
-  <docidentifier type="iso-undated">ISO 712</docidentifier>
   <docidentifier type="iso-reference">ISO 712(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:712:stage-95.99</docidentifier>
   <docnumber>712</docnumber>
@@ -1448,8 +1447,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_6f5dfaf8-188d-1ef5-b56a-ba10699b031a" type="standard" schema-version="v1.5.6" anchor="ISO6646">
-  <fetched>2026-10-27</fetched>
+<bibitem id="_b954ce24-145a-4118-6172-dd2d99dad6c9" type="standard" schema-version="v1.5.6" anchor="ISO6646">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -1472,7 +1471,6 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51072:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/10/51072.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6646</docidentifier>
-  <docidentifier type="iso-undated">ISO 6646</docidentifier>
   <docidentifier type="iso-reference">ISO 6646(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:6646:stage-90.93</docidentifier>
   <docnumber>6646</docnumber>
@@ -1646,8 +1644,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_bed4ad6d-043c-6382-bc98-25bdc95276ae" type="standard" schema-version="v1.5.6" anchor="ISO8351-1">
-  <fetched>2026-10-27</fetched>
+<bibitem id="_d068f147-6258-927b-c37a-d8f7f4606968" type="standard" schema-version="v1.5.6" anchor="ISO8351-1">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1740,8 +1738,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_91580728-2891-1285-9fb9-f3a3378a4548" type="standard" schema-version="v1.5.6" anchor="ISO8351-2">
-  <fetched>2026-10-27</fetched>
+<bibitem id="_3b860db9-ae77-63e7-812c-0034622e148a" type="standard" schema-version="v1.5.6" anchor="ISO8351-2">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1770,7 +1768,6 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:1818:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/00/18/1818.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 8351-2</docidentifier>
-  <docidentifier type="iso-undated">ISO 8351-2</docidentifier>
   <docidentifier type="iso-reference">ISO 8351-2(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:8351:-2:stage-90.93</docidentifier>
   <docnumber>8351</docnumber>
@@ -1918,8 +1915,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><note format="text/plain" type="Unpublished-Status">Under preparation. (Stage at the time of publication ISO/DIS 16634)</note><language>en</language><script>Latn</script>
 </bibitem>
-<bibitem id="_05628c9c-9813-be7c-2c66-5324049c5fb8" type="standard" schema-version="v1.5.6" anchor="ISO20483">
-  <fetched>2026-10-27</fetched>
+<bibitem id="_8f6aa0c7-1efd-1e25-0ce1-efecb1fa990a" type="standard" schema-version="v1.5.6" anchor="ISO20483">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and pulses</title>
 
@@ -2017,8 +2014,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_62b26cc3-266d-d4eb-8c80-75efc90b6bb6" type="standard" schema-version="v1.5.6" anchor="ISO24333">
-  <fetched>2026-10-27</fetched>
+<bibitem id="_0c21c02f-22f4-3302-05bd-8516ce088425" type="standard" schema-version="v1.5.6" anchor="ISO24333">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -2127,9 +2124,9 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
     <city>Geneva</city>
   </place>
 </bibitem>
-</references><references id="_35de5e0d-eaa9-c7f6-aed1-b56f1b8bde95" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_339c568d-be6a-f554-d8a0-0f40a9db3450" type="standard" schema-version="v1.5.6" anchor="ISO3696">
-  <fetched>2026-10-27</fetched>
+</references><references id="_b72a7dff-cd52-2ef6-0193-513f4ab493df" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_5082874b-62c4-ddae-67aa-e900a754af6b" type="standard" schema-version="v1.5.6" anchor="ISO3696">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Water for analytical laboratory use</title>
 
@@ -2152,7 +2149,6 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:9169:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/00/91/9169.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 3696</docidentifier>
-  <docidentifier type="iso-undated">ISO 3696</docidentifier>
   <docidentifier type="iso-reference">ISO 3696(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:3696:stage-90.93</docidentifier>
   <docnumber>3696</docnumber>
@@ -2287,8 +2283,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_a05541f2-79fc-613e-be41-b0f3f26d3a9c" type="standard" schema-version="v1.5.6" anchor="ISO5725-1">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_08113102-9104-4024-c91b-b6f3857235ae" type="standard" schema-version="v1.5.6" anchor="ISO5725-1">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2311,7 +2307,6 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:11833:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/01/18/11833.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 5725-1</docidentifier>
-  <docidentifier type="iso-undated">ISO 5725-1</docidentifier>
   <docidentifier type="iso-reference">ISO 5725-1(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:5725:-1:stage-95.99</docidentifier>
   <docnumber>5725</docnumber>
@@ -2486,8 +2481,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_af2444e3-db1a-1718-07a3-e3f4fc065095" type="standard" schema-version="v1.5.6" anchor="ISO5725-2">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_2b2b1f9e-601e-1f57-d751-ade15c5cfb05" type="standard" schema-version="v1.5.6" anchor="ISO5725-2">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2510,7 +2505,6 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:11834:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/01/18/11834.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 5725-2</docidentifier>
-  <docidentifier type="iso-undated">ISO 5725-2</docidentifier>
   <docidentifier type="iso-reference">ISO 5725-2(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:5725:-2:stage-95.99</docidentifier>
   <docnumber>5725</docnumber>
@@ -2699,8 +2693,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_6968a43e-405a-17c9-f9f2-3b9bc06f1728" type="standard" schema-version="v1.5.6" anchor="ISO6322-1">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_e67ff670-e007-15ab-7540-5b4e1f2b8a61" type="standard" schema-version="v1.5.6" anchor="ISO6322-1">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -2723,7 +2717,6 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21396:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/13/21396.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6322-1</docidentifier>
-  <docidentifier type="iso-undated">ISO 6322-1</docidentifier>
   <docidentifier type="iso-reference">ISO 6322-1(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:6322:-1:stage-90.92</docidentifier>
   <docnumber>6322</docnumber>
@@ -2906,8 +2899,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_2b5308ae-7ca1-a521-0597-d81e291ca96b" type="standard" schema-version="v1.5.6" anchor="ISO6322-2">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_37fd0ff0-452d-ac32-39c7-4742a27fe0fd" type="standard" schema-version="v1.5.6" anchor="ISO6322-2">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -2930,7 +2923,6 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21395:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/13/21395.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6322-2</docidentifier>
-  <docidentifier type="iso-undated">ISO 6322-2</docidentifier>
   <docidentifier type="iso-reference">ISO 6322-2(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:6322:-2:stage-90.93</docidentifier>
   <docnumber>6322</docnumber>
@@ -3084,8 +3076,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_0432ec24-ecd7-a29e-0ffa-9246665e3930" type="standard" schema-version="v1.5.6" anchor="ISO6322-3">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_99415c07-95da-ba3c-04ac-497a064baae1" type="standard" schema-version="v1.5.6" anchor="ISO6322-3">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3108,7 +3100,6 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:12614:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/01/26/12614.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6322-3</docidentifier>
-  <docidentifier type="iso-undated">ISO 6322-3</docidentifier>
   <docidentifier type="iso-reference">ISO 6322-3(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:6322:-3:stage-90.93</docidentifier>
   <docnumber>6322</docnumber>
@@ -3263,8 +3254,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_f31953c0-c44c-4981-9745-b644d4c03184" type="standard" schema-version="v1.5.6" anchor="ISO7301">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_6b69bfba-0bd6-5ac3-87f8-1a078466764c" type="standard" schema-version="v1.5.6" anchor="ISO7301">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3362,8 +3353,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_bda8a343-2e55-f7b9-cdc9-2f986f34c632" type="standard" schema-version="v1.5.6" anchor="ISO14864">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_5f08f8b9-a60e-a568-88f4-d6ea1750223a" type="standard" schema-version="v1.5.6" anchor="ISO14864">
+  <fetched>2026-11-04</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
