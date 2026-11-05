@@ -1235,12 +1235,12 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
 <td id="_32274024-0559-f15a-862f-74db416f7f74" valign="top" align="center">6,06</td>
 </tr></tbody>
 </table>
-</annex><bibliography><references id="_1e0d3a01-5855-a5df-c56e-090ef67ca18a" normative="true" obligation="informative">
+</annex><bibliography><references id="_c9dd42d2-bec9-cb4b-21a8-3ce8f9bd3d86" normative="true" obligation="informative">
 <title id="_4f45c8bd-1ba1-78c9-9db1-428e22601996">Références normatives</title><p id="_21da3ff3-c14e-d036-ec1a-22dd5da6ee5e">Les documents suivants cités dans le texte constituent, pour tout ou partie de leur contenu, des exigences du présent document. Pour les références datées, seule l’édition citée s’applique. Pour les références non datées, la dernière édition du document de référence s’applique (y compris les éventuels amendements).</p>
 
 
-<bibitem id="_9eb2acc8-4972-99ca-bf5d-193a1cf80d3c" type="standard" schema-version="v1.5.6" anchor="ISO712">
-  <fetched>2026-11-04</fetched>
+<bibitem id="_19dadf33-275b-0a1d-77ce-a2aeca187190" type="standard" schema-version="v1.5.6" anchor="ISO712">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -1448,8 +1448,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_b954ce24-145a-4118-6172-dd2d99dad6c9" type="standard" schema-version="v1.5.6" anchor="ISO6646">
-  <fetched>2026-11-04</fetched>
+<bibitem id="_4d29159e-6c5d-046d-0750-3ad3a4646d04" type="standard" schema-version="v1.5.6" anchor="ISO6646">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -1645,8 +1645,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_d068f147-6258-927b-c37a-d8f7f4606968" type="standard" schema-version="v1.5.6" anchor="ISO8351-1">
-  <fetched>2026-11-04</fetched>
+<bibitem id="_c60c04c3-e6fe-1666-8f43-01e4ffbee19e" type="standard" schema-version="v1.5.6" anchor="ISO8351-1">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1739,8 +1739,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_3b860db9-ae77-63e7-812c-0034622e148a" type="standard" schema-version="v1.5.6" anchor="ISO8351-2">
-  <fetched>2026-11-04</fetched>
+<bibitem id="_c5228e67-a124-ff7f-0427-196485292320" type="standard" schema-version="v1.5.6" anchor="ISO8351-2">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1916,8 +1916,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><note format="text/plain" type="Unpublished-Status">En cours d’élaboration. (Stade au moment de la publication ISO/DIS 16634).</note><language>fr</language><script>Latn</script>
 </bibitem>
-<bibitem id="_8f6aa0c7-1efd-1e25-0ce1-efecb1fa990a" type="standard" schema-version="v1.5.6" anchor="ISO20483">
-  <fetched>2026-11-04</fetched>
+<bibitem id="_1ddea5e6-e7f1-115b-37d9-7789358d9339" type="standard" schema-version="v1.5.6" anchor="ISO20483">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and pulses</title>
 
@@ -2015,8 +2015,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_0c21c02f-22f4-3302-05bd-8516ce088425" type="standard" schema-version="v1.5.6" anchor="ISO24333">
-  <fetched>2026-11-04</fetched>
+<bibitem id="_f11ffcaa-056d-ac67-e206-09e3a8edd224" type="standard" schema-version="v1.5.6" anchor="ISO24333">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -2125,9 +2125,9 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
     <city>Geneva</city>
   </place>
 </bibitem>
-</references><references id="_f06c8d19-2754-d0ea-35d9-0f38517c740e" normative="false" obligation="informative">
-<title id="_086fd3ae-8b31-2f2e-6ab5-296a5446feac">Bibliographie</title><bibitem id="_5082874b-62c4-ddae-67aa-e900a754af6b" type="standard" schema-version="v1.5.6" anchor="ISO3696">
-  <fetched>2026-11-04</fetched>
+</references><references id="_d64103ab-7799-179b-f14d-0ea24f2f14dc" normative="false" obligation="informative">
+<title id="_086fd3ae-8b31-2f2e-6ab5-296a5446feac">Bibliographie</title><bibitem id="_fa55d4ed-50b0-b197-da1e-17e3e9767276" type="standard" schema-version="v1.5.6" anchor="ISO3696">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Water for analytical laboratory use</title>
 
@@ -2284,8 +2284,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_08113102-9104-4024-c91b-b6f3857235ae" type="standard" schema-version="v1.5.6" anchor="ISO5725-1">
-  <fetched>2026-11-04</fetched>
+</bibitem><bibitem id="_314d5396-cd9c-077f-b322-75617a3f46b7" type="standard" schema-version="v1.5.6" anchor="ISO5725-1">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2482,8 +2482,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_36fef3f7-8ff4-54cf-ca2c-89ccdd931547" type="standard" schema-version="v1.5.6" anchor="ISO5725-2">
-  <fetched>2026-11-04</fetched>
+</bibitem><bibitem id="_b1f7da1f-8aee-d44d-c66c-3a60623f7ce0" type="standard" schema-version="v1.5.6" anchor="ISO5725-2">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2694,8 +2694,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_e67ff670-e007-15ab-7540-5b4e1f2b8a61" type="standard" schema-version="v1.5.6" anchor="ISO6322-1">
-  <fetched>2026-11-04</fetched>
+</bibitem><bibitem id="_53e7dcf8-f892-3e25-c699-a15480feddf3" type="standard" schema-version="v1.5.6" anchor="ISO6322-1">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -2900,8 +2900,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_37fd0ff0-452d-ac32-39c7-4742a27fe0fd" type="standard" schema-version="v1.5.6" anchor="ISO6322-2">
-  <fetched>2026-11-04</fetched>
+</bibitem><bibitem id="_1563eded-aeaf-51f4-39cd-6bd3a9c22da5" type="standard" schema-version="v1.5.6" anchor="ISO6322-2">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3077,8 +3077,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_99415c07-95da-ba3c-04ac-497a064baae1" type="standard" schema-version="v1.5.6" anchor="ISO6322-3">
-  <fetched>2026-11-04</fetched>
+</bibitem><bibitem id="_1ebf64bf-1ad9-88b5-4bb1-1898f740c05e" type="standard" schema-version="v1.5.6" anchor="ISO6322-3">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3255,8 +3255,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_6b69bfba-0bd6-5ac3-87f8-1a078466764c" type="standard" schema-version="v1.5.6" anchor="ISO7301">
-  <fetched>2026-11-04</fetched>
+</bibitem><bibitem id="_531604d3-6fe9-3b19-e9b2-07985249af3e" type="standard" schema-version="v1.5.6" anchor="ISO7301">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3354,8 +3354,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_5f08f8b9-a60e-a568-88f4-d6ea1750223a" type="standard" schema-version="v1.5.6" anchor="ISO14864">
-  <fetched>2026-11-04</fetched>
+</bibitem><bibitem id="_fc86f1ff-53bc-47d4-2449-573e5a6e97c4" type="standard" schema-version="v1.5.6" anchor="ISO14864">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
